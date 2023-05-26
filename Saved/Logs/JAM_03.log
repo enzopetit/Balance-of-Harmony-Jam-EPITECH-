@@ -1364,3 +1364,436 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.26-19.24.46:067][906]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
 [2023.05.26-19.24.58:943][221]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
 [2023.05.26-19.25.00:659][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.05.26-19.27.01:506][826]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.01:509][826]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.01:510][826]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_117 via property FP_Gun, but TRASH_SkeletalMeshComponent_117 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.02:390][924]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.02:392][924]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.02:394][924]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_117 via property FP_Gun, but TRASH_SkeletalMeshComponent_117 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.03:020][991]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.03:022][991]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.03:024][991]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_117 via property FP_Gun, but TRASH_SkeletalMeshComponent_117 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.03:615][ 54]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.03:617][ 54]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.03:619][ 54]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_117 via property FP_Gun, but TRASH_SkeletalMeshComponent_117 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.04:112][105]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.04:114][105]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.04:115][105]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_117 via property FP_Gun, but TRASH_SkeletalMeshComponent_117 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.04:601][156]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.04:603][156]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.04:604][156]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_117 via property FP_Gun, but TRASH_SkeletalMeshComponent_117 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.15:464][694]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.15:466][694]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.15:467][694]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_117 via property FP_Gun, but TRASH_SkeletalMeshComponent_117 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.28:646][271]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.28:647][271]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.28:648][271]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_117 via property FP_Gun, but TRASH_SkeletalMeshComponent_117 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.46:329][906]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.46:329][906]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.46:330][906]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_117 via property FP_Gun, but TRASH_SkeletalMeshComponent_117 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.48:124][120]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.48:125][120]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.48:125][120]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_117 via property FP_Gun, but TRASH_SkeletalMeshComponent_117 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_9
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.49:257][248]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_127 via property FP_Gun, but TRASH_SkeletalMeshComponent_127 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_3:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2023.05.26-19.27.49:799][302]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.26-19.27.49:805][302]LogBlueprint: Error: [AssetLog] H:\Jam-epitech-3\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.05.26-19.27.49:806][302]LogBlueprint: Error: [AssetLog] H:\Jam-epitech-3\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.05.26-19.27.49:806][302]LogBlueprint: Error: [AssetLog] H:\Jam-epitech-3\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.05.26-19.27.49:867][302]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.05.26-19.27.50:735][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2023.05.26-19.27.50:764][376]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/FirstPersonCharacter8B22C1864A48E3E22F5E96BC1E2B1DE0.tmp' to 'H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.26-19.27.50:779][376]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.26-19.27.50:779][376]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.26-19.28.52:663][ 17]LogContentBrowser: Deferred new asset file creation: FirstPersonCharacter_Child
+[2023.05.26-19.28.52:682][ 17]LogContentBrowser: Creating deferred item: FirstPersonCharacter_Child
+[2023.05.26-19.28.55:780][385]LogContentBrowser: Attempting asset rename: FirstPersonCharacter_Child -> BPC_M9
+[2023.05.26-19.28.55:907][385]LogContentBrowser: End creating deferred item FirstPersonCharacter_Child
+[2023.05.26-19.28.57:520][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2023.05.26-19.28.58:260][551]LogSlate: Window 'Save Content' being destroyed
+[2023.05.26-19.28.58:522][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/BPC_M9" FILE="H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/BPC_M9.uasset" SILENT=true
+[2023.05.26-19.28.58:529][551]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BPC_M9F95479E346D9A71F432A9EBC5FE0E98B.tmp' to 'H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/BPC_M9.uasset'
+[2023.05.26-19.28.58:796][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2023.05.26-19.28.58:839][551]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/FirstPersonCharacter0348A8FD4239242BA654B0845ACD1D82.tmp' to 'H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.26-19.28.58:840][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap" FILE="H:/Jam-epitech-3/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.26-19.28.58:874][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.05.26-19.28.58:915][551]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/FirstPersonExampleMapFC8DD3E24E62F8431EC941984D229974.tmp' to 'H:/Jam-epitech-3/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.05.26-19.28.58:926][551]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.086
+[2023.05.26-19.28.58:946][551]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.26-19.28.58:946][551]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.26-19.28.58:947][551]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.05.26-19.28.58:947][551]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BPC_M9.BPC_M9
+[2023.05.26-19.29.02:873][656]LogContentBrowser: Deferred new asset file creation: BPC_M10
+[2023.05.26-19.29.02:890][656]LogContentBrowser: Creating deferred item: BPC_M10
+[2023.05.26-19.29.07:225][108]LogContentBrowser: Attempting asset rename: BPC_M10 -> BPC_M9_White
+[2023.05.26-19.29.07:371][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2023.05.26-19.29.07:501][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/BPC_M9_White" FILE="H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/BPC_M9_White.uasset" SILENT=true
+[2023.05.26-19.29.07:506][108]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BPC_M9_White9AC6226C49E6CA4E802EF9BC738FDF51.tmp' to 'H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/BPC_M9_White.uasset'
+[2023.05.26-19.29.07:967][108]LogContentBrowser: End creating deferred item BPC_M10
+[2023.05.26-19.29.07:975][108]AssetCheck: New page: Asset Save: BPC_M9_White
+[2023.05.26-19.29.07:975][108]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BPC_M9_White.BPC_M9_White
+[2023.05.26-19.29.53:003][899]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.05.26-19.29.53:022][899]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.05.26-19.29.55:404][176]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2023.05.26-19.29.55:525][176]LogContentBrowser: End creating deferred item NewMaterial
+[2023.05.26-19.29.56:481][268]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FirstPersonBP/Blueprints/NewMaterial.NewMaterial
+[2023.05.26-19.29.56:484][268]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6148F8ADB3373C7E2E3356D300B4663C8C8A514C), compiling. 
+[2023.05.26-19.29.56:495][268]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.05.26-19.29.56:513][268]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.05.26-19.29.56:605][268]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.05.26-19.29.56:874][268]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B820089A45932107291B2FA16CB6AF3705FAEC00), compiling. 
+[2023.05.26-19.29.56:885][268]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.26-19.29.56:998][269]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.26-19.29.56:999][269]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.26-19.29.56:999][269]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.26-19.29.56:999][269]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.26-19.29.56:999][269]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.05.26-19.29.56:999][269]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2023.05.26-19.29.56:999][269]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2023.05.26-19.29.56:999][269]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.05.26-19.29.58:676][384]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.26-19.29.58:676][384]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.26-19.29.58:678][384]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.26-19.29.58:679][384]LogShaderCompilers: Display: Total job queries 134, among them cache hits 0 (0.00%)
+[2023.05.26-19.29.58:679][384]LogShaderCompilers: Display: Tracking 74 distinct input hashes that result in 55 distinct outputs (74.32%)
+[2023.05.26-19.29.58:679][384]LogShaderCompilers: Display: RAM used: 0.39 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2023.05.26-19.29.58:679][384]LogShaderCompilers: Display: ================================================
+[2023.05.26-19.29.58:690][385]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.26-19.29.58:712][387]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.26-19.29.58:712][387]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.26-19.29.59:885][472]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F56B073176485DA4B4D56BA41C79293ECD37B720), compiling. 
+[2023.05.26-19.29.59:897][472]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.26-19.29.59:956][474]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.26-19.30.00:929][550]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.05.26-19.30.00:929][550]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.05.26-19.30.00:929][550]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.26-19.30.00:929][550]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.26-19.30.01:597][623]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0BB15328952FFEBA57CD847A8C90DE7753A692D7), compiling. 
+[2023.05.26-19.30.01:601][623]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.26-19.30.01:607][624]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.26-19.30.01:615][625]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.26-19.30.01:615][625]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.26-19.30.01:615][625]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.26-19.30.01:615][625]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.05.26-19.30.01:617][625]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2023.05.26-19.30.01:617][625]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2023.05.26-19.30.01:617][625]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.05.26-19.30.02:358][690]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2023.05.26-19.30.02:358][690]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.26-19.30.02:584][712]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2023.05.26-19.30.02:584][712]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.26-19.30.02:586][712]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.26-19.30.03:764][817]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 043485C8F221C39BE42838D0059C5581EE49907D), compiling. 
+[2023.05.26-19.30.03:767][817]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0B04C4603248FDCF0FE37B2FE9E97441763F838D), compiling. 
+[2023.05.26-19.30.03:772][817]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.26-19.30.03:782][818]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.26-19.30.03:782][818]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.26-19.30.03:783][818]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.26-19.30.03:783][818]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.26-19.30.03:797][819]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.05.26-19.30.04:041][839]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2023.05.26-19.30.04:041][839]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.26-19.30.04:311][860]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2023.05.26-19.30.04:311][860]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.26-19.30.04:460][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2023.05.26-19.30.04:460][872]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.26-19.30.04:573][881]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2023.05.26-19.30.05:054][881]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.26-19.30.05:055][881]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.26-19.30.05:078][881]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 4504874CC48F841B299CCF661E98A1971073D2A7), compiling. 
+[2023.05.26-19.30.05:117][881]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 677DE049C6B834500731ADFC9A3D82578E8C5496), compiling. 
+[2023.05.26-19.30.05:176][881]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.05.26-19.30.05:176][881]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2023.05.26-19.30.05:176][881]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.26-19.30.05:184][881]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2023.05.26-19.30.05:193][881]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.05.26-19.30.05:937][881]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.26-19.30.05:937][881]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.26-19.30.05:937][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.05.26-19.30.06:123][881]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.05.26-19.30.06:125][881]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2023.05.26-19.30.06:125][881]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2023.05.26-19.30.06:125][881]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2023.05.26-19.30.06:125][881]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.05.26-19.30.06:153][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/NewMaterial" FILE="H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/NewMaterial.uasset" SILENT=true
+[2023.05.26-19.30.06:161][881]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/NewMaterial2E036E0147AAB74E9BA2E3865F16AE4E.tmp' to 'H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/NewMaterial.uasset'
+[2023.05.26-19.30.06:474][881]AssetCheck: New page: Asset Save: NewMaterial
+[2023.05.26-19.30.06:475][881]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/Blueprints/NewMaterial.NewMaterial
+[2023.05.26-19.30.06:483][881]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.26-19.30.07:576][985]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2023.05.26-19.30.07:748][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/NewMaterial" FILE="H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/NewMaterial.uasset" SILENT=true
+[2023.05.26-19.30.07:749][985]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/NewMaterialBA24D7A448B56B08A29683B425124AB8.tmp' to 'H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/NewMaterial.uasset'
+[2023.05.26-19.30.07:769][985]AssetCheck: New page: Asset Save: NewMaterial
+[2023.05.26-19.30.07:769][985]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/Blueprints/NewMaterial.NewMaterial
+[2023.05.26-19.30.07:791][986]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.05.26-19.30.07:791][986]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.05.26-19.30.07:791][986]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.26-19.30.07:791][986]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.26-19.30.09:006][119]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-19.30.09:006][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-19.30.13:649][535]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/BPC_M9_White.BPC_M9_White
+[2023.05.26-19.30.19:538][ 47]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-19.30.19:538][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-19.30.19:602][ 47]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/BPC_M9_White.BPC_M9_White
+[2023.05.26-19.30.29:981][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2023.05.26-19.30.30:980][806]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.26-19.30.31:110][806]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-19.30.31:110][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-19.30.31:158][806]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FirstPersonBP/Blueprints/BPC_M9_White.BPC_M9_White
+[2023.05.26-19.30.32:932][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.05.26-19.30.32:960][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.05.26-19.30.32:986][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.05.26-19.30.33:186][806]SourceControl: rm 'Content/FirstPersonBP/Blueprints/BPC_M9_White.uasset'
+[2023.05.26-19.30.34:108][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2023.05.26-19.30.35:007][887]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.26-19.30.35:212][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.05.26-19.30.35:246][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.05.26-19.30.35:272][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.05.26-19.30.35:477][887]SourceControl: rm 'Content/FirstPersonBP/Blueprints/BPC_M9.uasset'
+[2023.05.26-19.30.49:762][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/NewMaterial" FILE="H:/Jam-epitech-3/Content/Core/Weapons/NewMaterial.uasset" SILENT=true
+[2023.05.26-19.30.49:767][310]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/NewMaterialCF989A6747B90E63D63E3D84E3A2C92D.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/NewMaterial.uasset'
+[2023.05.26-19.30.50:286][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.05.26-19.30.50:325][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.05.26-19.30.50:350][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.05.26-19.30.50:550][310]SourceControl: rm 'Content/FirstPersonBP/Blueprints/NewMaterial.uasset'
+[2023.05.26-19.30.50:597][310]AssetCheck: New page: Asset Save: NewMaterial
+[2023.05.26-19.30.50:597][310]LogContentValidation: Display: Validating Material /Game/Core/Weapons/NewMaterial.NewMaterial
+[2023.05.26-19.30.53:987][623]LogContentBrowser: Deferred new asset file creation: BP_WeaponMaster_Child
+[2023.05.26-19.30.54:024][623]LogContentBrowser: Creating deferred item: BP_WeaponMaster_Child
+[2023.05.26-19.30.56:119][874]LogContentBrowser: Attempting asset rename: BP_WeaponMaster_Child -> BPC_M9
+[2023.05.26-19.30.56:243][874]LogContentBrowser: End creating deferred item BP_WeaponMaster_Child
+[2023.05.26-19.30.57:400][972]LogContentBrowser: Deferred new asset file creation: BPC_M10
+[2023.05.26-19.30.57:414][972]LogContentBrowser: Creating deferred item: BPC_M10
+[2023.05.26-19.31.01:264][277]LogContentBrowser: Attempting asset rename: BPC_M10 -> BPC_M9_White
+[2023.05.26-19.31.01:428][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.05.26-19.31.01:582][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BPC_M9_White" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9_White.uasset" SILENT=true
+[2023.05.26-19.31.01:591][277]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BPC_M9_White794567C942FD76777BAC339D0337C68F.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9_White.uasset'
+[2023.05.26-19.31.01:954][277]LogContentBrowser: End creating deferred item BPC_M10
+[2023.05.26-19.31.01:963][277]AssetCheck: New page: Asset Save: BPC_M9_White
+[2023.05.26-19.31.01:963][277]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BPC_M9_White.BPC_M9_White
+[2023.05.26-19.31.02:811][346]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Weapons/BPC_M9_White.BPC_M9_White
+[2023.05.26-19.31.06:373][718]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-19.31.06:373][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-19.31.06:426][718]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Weapons/BPC_M9_White.BPC_M9_White
+[2023.05.26-19.31.08:536][896]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.26-19.31.08:543][896]LogBlueprint: Error: [AssetLog] H:\Jam-epitech-3\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2023.05.26-19.31.08:599][896]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.05.26-19.31.09:168][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2023.05.26-19.31.09:198][937]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/FirstPersonCharacter9B87EA1B4479E662C6A542A4530AF388.tmp' to 'H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.26-19.31.09:213][937]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.26-19.31.09:213][937]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.26-19.31.18:647][ 33]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.26-19.31.18:711][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2023.05.26-19.31.19:195][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2023.05.26-19.31.19:225][ 71]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/FirstPersonCharacterCD2DEA3C48B43DCCF1EFE090E97C1EAD.tmp' to 'H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.26-19.31.19:240][ 71]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.26-19.31.19:240][ 71]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.26-19.31.25:377][503]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack_Mat.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack_Mat.uasset' is outside repository at 'H:/Jam-epitech-3'
+[2023.05.26-19.31.26:816][646]LogMaterial: Display: Material /Game/Core/Weapons/NewMaterial.NewMaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.26-19.31.26:818][646]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 62AFF86BDB3FA7C094F574311C690F559EF159CF), compiling. 
+[2023.05.26-19.31.26:846][646]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2023.05.26-19.31.26:886][647]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2023.05.26-19.31.26:886][647]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2023.05.26-19.31.26:887][647]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2023.05.26-19.31.26:887][647]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.05.26-19.31.26:887][647]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2023.05.26-19.31.29:172][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BPC_M9_White" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9_White.uasset" SILENT=true
+[2023.05.26-19.31.29:178][804]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BPC_M9_White6708A0394A60B026937A6D97270FC9A2.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9_White.uasset'
+[2023.05.26-19.31.29:192][804]AssetCheck: New page: Asset Save: BPC_M9_White
+[2023.05.26-19.31.29:192][804]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BPC_M9_White.BPC_M9_White
+[2023.05.26-19.31.38:111][285]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.05.26-19.31.38:133][285]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.26-19.31.41:534][670]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.26-19.31.41:598][670]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2023.05.26-19.31.42:108][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2023.05.26-19.31.42:151][707]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/FirstPersonCharacter9F220F9E484DD6B5A42008B1E72EC847.tmp' to 'H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.26-19.31.42:169][707]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.26-19.31.42:169][707]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.26-19.31.52:921][904]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.26-19.31.52:938][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-19.31.52:938][904]PIE: New page: PIE session: FirstPersonExampleMap (26 mai 2023 à 23:31:52)
+[2023.05.26-19.31.52:938][904]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.26-19.31.52:952][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013833s)
+[2023.05.26-19.31.52:954][904]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.26-19.31.52:955][904]LogPlayLevel: PIE: World Init took: (0.002332s)
+[2023.05.26-19.31.52:955][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016463s)
+[2023.05.26-19.31.53:007][904]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2023.05.26-19.31.53:009][904]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.05.26-19.31.53:009][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.26-19.31.53:009][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.26-19.31.53:009][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.26-19.31.53:009][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.26-19.31.53:009][904]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.26-19.31.53:009][904]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.26-19.31.53:010][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.26-19.31.53:010][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.26-19.31.53:010][904]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.26-19.31.53:010][904]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.26-19.31.53:010][904]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.26-19.31.53:011][904]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.26-19.31.53:024][904]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.26-19.31.53:024][904]LogAudioMixer: Display: 1: FrontRight
+[2023.05.26-19.31.53:043][904]LogAudioMixer: Display: Using Audio Device Haut-parleurs (HyperX Cloud Alpha S Game)
+[2023.05.26-19.31.53:043][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.26-19.31.53:043][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.26-19.31.53:043][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.26-19.31.53:043][904]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.26-19.31.53:043][904]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.26-19.31.53:043][904]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.26-19.31.53:045][904]LogInit: FAudioDevice initialized.
+[2023.05.26-19.31.53:045][904]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.26-19.31.53:045][904]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2023.05.26-19.31.53:049][904]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.26-19.31.53:054][904]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.26-19.31.53:057][904]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.26-21.31.53
+[2023.05.26-19.31.53:057][904]LogWorld: Bringing up level for play took: 0.002083
+[2023.05.26-19.31.53:057][904]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2023.05.26-19.31.53:060][904]PIE: Server logged in
+[2023.05.26-19.31.53:061][904]PIE: Play in editor total start time 0,136 seconds.
+[2023.05.26-19.31.57:852][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-19.31.57:853][434]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.26-19.31.57:853][434]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-19.31.57:853][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-19.31.57:859][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.26-19.31.57:865][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-19.31.57:892][434]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.26-19.31.57:892][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.26-19.31.57:893][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.26-19.31.57:895][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-19.31.57:899][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.05.26-19.31.57:924][435]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.05.26-19.32.47:231][336]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.26-19.32.47:300][336]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2023.05.26-19.32.47:789][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2023.05.26-19.32.47:824][360]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/FirstPersonCharacterAC94FF514BEC3201D99982BDC24D2283.tmp' to 'H:/Jam-epitech-3/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.26-19.32.47:842][360]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.26-19.32.47:842][360]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.26-19.32.48:863][465]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.26-19.32.48:880][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.26-19.32.48:880][465]PIE: New page: PIE session: FirstPersonExampleMap (26 mai 2023 à 23:32:48)
+[2023.05.26-19.32.48:930][465]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.26-19.32.48:942][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011928s)
+[2023.05.26-19.32.48:943][465]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.26-19.32.48:944][465]LogPlayLevel: PIE: World Init took: (0.001536s)
+[2023.05.26-19.32.48:944][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013731s)
+[2023.05.26-19.32.48:982][465]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2023.05.26-19.32.48:984][465]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.05.26-19.32.48:984][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.26-19.32.48:984][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.26-19.32.48:984][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.26-19.32.48:984][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.26-19.32.48:984][465]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.26-19.32.48:984][465]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.26-19.32.48:984][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.26-19.32.48:984][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.26-19.32.48:985][465]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.26-19.32.48:985][465]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.26-19.32.48:985][465]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.26-19.32.48:985][465]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.26-19.32.48:994][465]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.26-19.32.48:994][465]LogAudioMixer: Display: 1: FrontRight
+[2023.05.26-19.32.49:009][465]LogAudioMixer: Display: Using Audio Device Haut-parleurs (HyperX Cloud Alpha S Game)
+[2023.05.26-19.32.49:009][465]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.26-19.32.49:009][465]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.26-19.32.49:009][465]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.26-19.32.49:010][465]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.26-19.32.49:010][465]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.26-19.32.49:010][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.26-19.32.49:012][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.26-19.32.49:012][465]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.26-19.32.49:012][465]LogInit: FAudioDevice initialized.
+[2023.05.26-19.32.49:012][465]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2023.05.26-19.32.49:023][465]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.26-19.32.49:025][465]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.26-21.32.49
+[2023.05.26-19.32.49:026][465]LogWorld: Bringing up level for play took: 0.001861
+[2023.05.26-19.32.49:026][465]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2023.05.26-19.32.49:029][465]PIE: Server logged in
+[2023.05.26-19.32.49:030][465]PIE: Play in editor total start time 0,162 seconds.
+[2023.05.26-19.32.57:983][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-19.32.57:983][497]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.26-19.32.57:984][497]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-19.32.57:984][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-19.32.57:997][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.26-19.32.58:002][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-19.32.58:031][497]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.26-19.32.58:032][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.26-19.32.58:033][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.26-19.32.58:035][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.26-19.32.58:039][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2023.05.26-19.32.58:068][498]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.05.26-19.33.13:670][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.05.26-19.33.14:529][819]LogSlate: Window 'Save Content' being destroyed
+[2023.05.26-19.33.14:778][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BPC_M9" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9.uasset" SILENT=true
+[2023.05.26-19.33.14:788][819]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BPC_M9E92B04584470ABA9CCCF4CB52FC22064.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9.uasset'
+[2023.05.26-19.33.15:004][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap" FILE="H:/Jam-epitech-3/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.26-19.33.15:033][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.05.26-19.33.15:062][819]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/FirstPersonExampleMap17DC361D4AB031F3A4BC29A375947971.tmp' to 'H:/Jam-epitech-3/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.05.26-19.33.15:070][819]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.067
+[2023.05.26-19.33.15:070][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/NewMaterial" FILE="H:/Jam-epitech-3/Content/Core/Weapons/NewMaterial.uasset" SILENT=true
+[2023.05.26-19.33.15:072][819]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/NewMaterial3DB993A24762C37E7ECF73905A687BC7.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/NewMaterial.uasset'
+[2023.05.26-19.33.15:089][819]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.26-19.33.15:089][819]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.05.26-19.33.15:089][819]LogContentValidation: Display: Validating Material /Game/Core/Weapons/NewMaterial.NewMaterial
+[2023.05.26-19.33.15:089][819]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BPC_M9.BPC_M9
