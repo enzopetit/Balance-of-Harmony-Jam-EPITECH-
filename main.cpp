@@ -1,33 +1,102 @@
-/*
-** EPITECH PROJECT, 2023
-** Projet
-** File description:
-** main
-*/
+#include "jam.hpp"
 
-#include <SFML/Graphics.hpp>
-#include <iostream>
-
-void init_page()
+void init_page(yin_yang_t *y)
 {
-    sf::RenderWindow window(sf::VideoMode::getDesktopMode(), "JAM EPITECH 3");
+    float vitesse_x = 0;
+    float vitesse_y = 0;
+    bool isRightPressed = false;
+    bool isLeftPressed = false;
 
-    while (window.isOpen())
+    if (!y->texture_n.loadFromFile("assets/JAM_TEST.png"))
+    {
+        std::cout << "Erreur lors du chargement de l'image" << std::endl;
+        return;
+    }
+    y->sprite_n.setTexture(y->texture_n);
+    y->sprite_n.setTextureRect(sf::IntRect(0, 0, 17, 28));
+    y->sprite_n.setScale(3.0f, 3.0f);
+    y->spritePosition_n = y->sprite_n.getPosition();
+    y->spritePosition_n.y = 900;
+    y->sprite_n.setPosition(y->spritePosition_n);
+
+    while (y->window.isOpen())
     {
         sf::Event event;
-        while (window.pollEvent(event))
+        while (y->window.pollEvent(event))
         {
             if (event.type == sf::Event::Closed)
-                window.close();
+                y->window.close();
+            if (event.type == sf::Event::KeyPressed)
+            {
+                if (event.key.code == sf::Keyboard::Space) {
+                    if (vitesse_y == 0)
+                        vitesse_y -= 1.7;
+                }
+                if (event.key.code == sf::Keyboard::Right) {
+                    if (vitesse_x == 0) {
+                        vitesse_x += 1;
+                        isRightPressed = true;
+                    }
+                }
+                if (event.key.code == sf::Keyboard::Left) {
+                    if (vitesse_x == 0) {
+                        vitesse_x -= 1;
+                        isLeftPressed = true;
+                    }
+                }
+                if (event.key.code == sf::Keyboard::Up && vitesse_y == 0)
+                    std::cout << "haut" << std::endl;
+                if (event.key.code == sf::Keyboard::A)
+                    std::cout << "bas" << std::endl;
+            }
+            else if (event.type == sf::Event::KeyReleased)
+            {
+                if (event.key.code == sf::Keyboard::Right) {
+                    isRightPressed = false;
+                    std::cout << "Right released" << std::endl;
+                }
+                if (event.key.code == sf::Keyboard::Left) {
+                    isLeftPressed = false;
+                    std::cout << "Left released" << std::endl;
+                }
+            }
         }
-        window.clear();
-        window.display();
+
+        if (!isRightPressed && !isLeftPressed) {
+            if (vitesse_x < 0.1 && vitesse_x > -0.1 && vitesse_y == 0) {
+                vitesse_x = 0;
+            } else if (vitesse_x > 0) {
+                vitesse_x -= 0.02;
+            } else if (vitesse_x < 0)
+                vitesse_x += 0.02;
+        }
+
+        y->spritePosition_n.y += vitesse_y;
+        if (y->spritePosition_n.y >= 900) {
+            y->spritePosition_n.y = 900;
+            vitesse_y = 0;
+        } else if (y->spritePosition_n.y < 900) {
+            vitesse_y += 0.01;
+        }
+
+        y->spritePosition_n.x += vitesse_x;
+        y->sprite_n.setPosition(y->spritePosition_n);
+
+        y->window.clear(sf::Color(128, 128, 128));
+        y->window.draw(y->sprite_n);
+        y->window.display();
     }
 }
 
 int main()
 {
     std::cout << "START PROJET !" << std::endl;
-    init_page();
+
+    yin_yang_t y;
+    y.window.create(sf::VideoMode::getDesktopMode(), "JAM EPITECH 3");
+    y.window.clear(sf::Color(128, 128, 128));
+
+    init_page(&y);
+
     return 0;
 }

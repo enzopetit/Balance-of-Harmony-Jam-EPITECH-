@@ -6,8 +6,7 @@
 ##
 
 CC = g++
-CFLAGS = -I include
-CPPFLAGS = -Wall -Wextra
+CPPFLAGS = -Wall -Wextra -I include
 SFMLFLAGS = -lsfml-graphics -lsfml-window -lsfml-system
 
 SRC = main.cpp \
@@ -19,7 +18,7 @@ NAME = JAM_3
 all: $(NAME)
 
 $(NAME): $(OBJ)
-	$(CC) $(OBJ) -o $(NAME) $(CPPFLAGS) $(CFLAGS) $(SFMLFLAGS) -g3
+	$(CC) $(OBJ) -o $(NAME) $(CPPFLAGS) $(SFMLFLAGS) -g3
 
 clean:
 	rm -f $(NAME) $(OBJ)
