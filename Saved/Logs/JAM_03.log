@@ -1240,3 +1240,127 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.26-19.16.10:099][544]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.062
 [2023.05.26-19.16.10:118][544]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2023.05.26-19.16.10:118][544]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.05.26-19.21.42:876][394]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.26-19.21.44:129][394]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.26-19.21.44:139][394]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.26-19.21.44:153][394]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.26-19.21.48:202][879]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_WeaponMaster
+[2023.05.26-19.21.48:337][879]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.26-19.21.56:615][  6]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.26-19.21.57:478][  7]LogRenderer: Reallocating scene render targets to support 1616x996 Format 10 NumSamples 1 (Frame:1).
+[2023.05.26-19.22.11:125][563]LogEditorTransaction: Undo Make New Scene Root
+[2023.05.26-19.22.39:499][395]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'H:/Jam-epitech-3'
+[2023.05.26-19.22.39:499][395]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository at 'H:/Jam-epitech-3'
+[2023.05.26-19.22.47:862][628]LogTexture: Display: Building textures: TEX_FPArms_Male1_RGS (OODLE_AutoDXT, 4096X4096)
+[2023.05.26-19.22.47:862][628]LogTexture: Display: Building textures: TEX_FPArms_Male1_MET (OODLE_AutoDXT, 4096X4096)
+[2023.05.26-19.22.47:862][628]LogTexture: Display: Building textures: TEX_FPArms_Male1_AO (OODLE_AutoDXT, 4096X4096)
+[2023.05.26-19.22.47:862][628]LogTexture: Display: Building textures: TEX_FPArms_Male1_SPC (OODLE_AutoDXT, 4096X4096)
+[2023.05.26-19.22.47:862][628]LogTexture: Display: Building textures: TEX_FPArms_Male1_NRM (OODLE_BC5, 4096X4096)
+[2023.05.26-19.22.47:862][628]LogTexture: Display: Building textures: TEX_FPArms_Male1_DIF (OODLE_AutoDXT, 4096X4096)
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.22.47:862][628]LogSkeletalMesh: Building Skeletal Mesh SKM_FPSArms...
+[2023.05.26-19.22.47:887][628]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Core/PlayerCharacter/Meshes/SKM_FPSArms.SKM_FPSArms
+[2023.05.26-19.22.47:889][628]LogMaterial: Display: Missing cached shadermap for MAT_Arm in PCD3D_SM5, Default, SM5 (DDC key hash: 14FF426959ECE6204B8633C20826821198DC4F63), compiling. 
+[2023.05.26-19.22.47:944][628]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.26-19.22.47:951][628]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2023.05.26-19.22.47:951][628]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2023.05.26-19.22.47:951][628]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2023.05.26-19.22.47:951][628]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2023.05.26-19.22.47:951][628]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2023.05.26-19.22.51:666][842]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.26-19.22.51:666][842]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2023.05.26-19.22.51:666][842]LogShaderCompilers: Display: Tracking 5 distinct input hashes that result in 5 distinct outputs (100.00%)
+[2023.05.26-19.22.51:666][842]LogShaderCompilers: Display: RAM used: 0.04 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.05.26-19.22.51:666][842]LogShaderCompilers: Display: ================================================
+[2023.05.26-19.22.57:724][259]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.05.26-19.22.57:746][259]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.26-19.23.00:302][457]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.05.26-19.23.03:695][820]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.26-19.23.03:752][820]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2023.05.26-19.23.04:394][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.26-19.23.04:404][863]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterD723CA50499D60596383D58583FDD854.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.26-19.23.04:684][863]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.26-19.23.04:684][863]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.26-19.23.42:217][ 98]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/PlayerCharacter/Animations/M9/FPS_Berretta_m9_Idle.FPS_Berretta_m9_Idle
+[2023.05.26-19.23.57:383][587]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.05.26-19.23.57:405][587]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.26-19.24.03:466][242]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.05.26-19.24.08:034][743]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'H:/Jam-epitech-3'
+[2023.05.26-19.24.08:034][743]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository at 'H:/Jam-epitech-3'
+[2023.05.26-19.24.23:184][119]LogTexture: Display: Building textures: TEX_Beretta-M9_MET (OODLE_AutoDXT, 4096X4096)
+[2023.05.26-19.24.23:185][119]LogTexture: Display: Building textures: TEX_Beretta-M9_RGS (OODLE_AutoDXT, 4096X4096)
+[2023.05.26-19.24.23:185][119]LogTexture: Display: Building textures: TEX_AKS74U_RGS (OODLE_AutoDXT, 4096X4096)
+[2023.05.26-19.24.23:185][119]LogTexture: Display: Building textures: TEX_AKS74U_NRM (OODLE_BC5, 4096X4096)
+[2023.05.26-19.24.23:185][119]LogTexture: Display: Building textures: TEX_Beretta-M9_COL (OODLE_AutoDXT, 4096X4096)
+[2023.05.26-19.24.23:185][119]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:185][119]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.26-19.24.23:185][119]LogTexture: Display: Building textures: TEX_Beretta-M9_NRM (OODLE_BC5, 4096X4096)
+[2023.05.26-19.24.23:185][119]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:185][119]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:185][119]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.26-19.24.23:185][119]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.26-19.24.23:185][119]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.26-19.24.23:185][119]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:185][119]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:185][119]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:185][119]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:185][119]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTexture: Display: Building textures: TEX_AKS74U_MET (OODLE_AutoDXT, 4096X4096)
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTexture: Display: Building textures: TEX_Beretta-M9_AO (OODLE_AutoDXT, 4096X4096)
+[2023.05.26-19.24.23:186][119]LogTexture: Display: Building textures: TEX_AKS74U_AO (OODLE_AutoDXT, 4096X4096)
+[2023.05.26-19.24.23:186][119]LogTexture: Display: Building textures: TEX_AKS74U_COL (OODLE_AutoDXT, 4096X4096)
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.26-19.24.23:186][119]LogSkeletalMesh: Building Skeletal Mesh SKM_Beretta_M9...
+[2023.05.26-19.24.23:227][119]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Core/Weapons/Assets/Weapons/SKM_Beretta_M9.SKM_Beretta_M9
+[2023.05.26-19.24.23:230][119]LogMaterial: Display: Missing cached shadermap for MAT_WeaponMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 196695D3C58F8564A4E4ACA9C1B110F3644B4BCC), compiling. 
+[2023.05.26-19.24.23:290][119]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2023.05.26-19.24.23:294][119]LogMaterial: Display: Missing cached shadermap for MAT_Beretta in PCD3D_SM5, Default, SM5 (DDC key hash: 2FB973A63E5C4CC74F4078766EA24C362835C5D6), compiling. 
+[2023.05.26-19.24.23:345][119]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2023.05.26-19.24.23:345][119]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2023.05.26-19.24.23:345][119]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2023.05.26-19.24.23:345][119]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2023.05.26-19.24.23:345][119]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2023.05.26-19.24.31:588][417]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.05.26-19.24.31:588][417]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.05.26-19.24.45:110][858]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.26-19.24.45:163][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2023.05.26-19.24.46:030][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.26-19.24.46:043][906]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMaster51EC3D5247C912F9EE0A2C8E242A2CA7.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.26-19.24.46:067][906]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.26-19.24.46:067][906]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.26-19.24.58:943][221]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2023.05.26-19.25.00:659][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
