@@ -4392,3 +4392,208 @@ Make sure 'FPS_Character_C' has been compiled for  Get WeaponComponent
 [2023.05.27-13.18.02:047][786]AssetCheck: New page: Asset Save: multiple assets
 [2023.05.27-13.18.02:047][786]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BPC_M9.BPC_M9
 [2023.05.27-13.18.02:047][786]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BPC_M9_White.BPC_M9_White
+[2023.05.27-13.23.37:677][846]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Weapons/Animations/ANIM_Berretta_m9_Fire.ANIM_Berretta_m9_Fire
+[2023.05.27-13.23.38:848][978]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-13.23.38:908][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.05.27-13.23.40:063][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-13.23.40:088][ 89]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMaster328AA4004A7E5F06D9080385D2643F1A.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-13.23.40:102][ 89]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-13.23.40:102][ 89]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-13.24.42:838][367]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-13.24.42:903][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2023.05.27-13.24.45:176][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-13.24.45:206][557]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMaster4139DC94456B6AE824275499A0236186.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-13.24.45:221][557]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-13.24.45:221][557]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-13.25.04:584][ 65]LogSlate: Took 0.000953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.05.27-13.25.12:800][954]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-13.25.12:863][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.05.27-13.25.13:530][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-13.25.13:561][  2]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterD0F9DD90447DEF8EE7A34FB09331441C.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-13.25.13:576][  2]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-13.25.13:576][  2]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-13.25.26:259][374]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-13.25.26:322][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.05.27-13.25.26:861][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-13.25.26:892][412]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMaster8322CE0D4E5A8C7E575751A344E6ED09.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-13.25.26:905][412]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-13.25.26:906][412]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-13.53.04:204][758]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Core/PlayerCharacter/Animations/ABP_FPSArms.ABP_FPSArms
+[2023.05.27-13.53.04:213][758]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.27-13.53.04:612][758]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2023.05.27-13.53.05:125][758]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.27-13.53.26:372][780]BlueprintLog: New page: Compile ABP_FPSArms
+[2023.05.27-13.53.26:429][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.05.27-13.53.27:250][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/PlayerCharacter/Animations/ABP_FPSArms" FILE="H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/ABP_FPSArms.uasset" SILENT=true
+[2023.05.27-13.53.27:277][843]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/ABP_FPSArmsB264D6EF4ED3FD491889E9AC23210661.tmp' to 'H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/ABP_FPSArms.uasset'
+[2023.05.27-13.53.27:296][843]AssetCheck: New page: Asset Save: ABP_FPSArms
+[2023.05.27-13.53.27:296][843]LogContentValidation: Display: Validating AnimBlueprint /Game/Core/PlayerCharacter/Animations/ABP_FPSArms.ABP_FPSArms
+[2023.05.27-13.53.39:532][738]BlueprintLog: New page: Compile ABP_FPSArms
+[2023.05.27-13.53.39:584][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.05.27-13.53.40:079][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/PlayerCharacter/Animations/ABP_FPSArms" FILE="H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/ABP_FPSArms.uasset" SILENT=true
+[2023.05.27-13.53.40:107][767]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/ABP_FPSArms0D2A309F42425EA50C1531AD7AF2F385.tmp' to 'H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/ABP_FPSArms.uasset'
+[2023.05.27-13.53.40:121][767]AssetCheck: New page: Asset Save: ABP_FPSArms
+[2023.05.27-13.53.40:121][767]LogContentValidation: Display: Validating AnimBlueprint /Game/Core/PlayerCharacter/Animations/ABP_FPSArms.ABP_FPSArms
+[2023.05.27-13.53.57:571][ 56]BlueprintLog: New page: Compile ABP_FPSArms
+[2023.05.27-13.53.57:623][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.05.27-13.53.58:116][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/PlayerCharacter/Animations/ABP_FPSArms" FILE="H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/ABP_FPSArms.uasset" SILENT=true
+[2023.05.27-13.53.58:151][ 86]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/ABP_FPSArmsBDBAFEC04D35D46766A246AE1B234FAB.tmp' to 'H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/ABP_FPSArms.uasset'
+[2023.05.27-13.53.58:166][ 86]AssetCheck: New page: Asset Save: ABP_FPSArms
+[2023.05.27-13.53.58:166][ 86]LogContentValidation: Display: Validating AnimBlueprint /Game/Core/PlayerCharacter/Animations/ABP_FPSArms.ABP_FPSArms
+[2023.05.27-14.29.31:786][779]BlueprintLog: New page: Compile ABP_FPSArms
+[2023.05.27-14.29.31:844][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.05.27-14.29.32:443][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/PlayerCharacter/Animations/ABP_FPSArms" FILE="H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/ABP_FPSArms.uasset" SILENT=true
+[2023.05.27-14.29.32:475][823]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/ABP_FPSArmsEEFC89EE48CF1E4A1EEFFDB5D103DA91.tmp' to 'H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/ABP_FPSArms.uasset'
+[2023.05.27-14.29.32:492][823]AssetCheck: New page: Asset Save: ABP_FPSArms
+[2023.05.27-14.29.32:492][823]LogContentValidation: Display: Validating AnimBlueprint /Game/Core/PlayerCharacter/Animations/ABP_FPSArms.ABP_FPSArms
+[2023.05.27-14.29.45:620][828]BlueprintLog: New page: Compile ABP_FPSArms
+[2023.05.27-14.29.45:674][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.05.27-14.29.46:197][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/PlayerCharacter/Animations/ABP_FPSArms" FILE="H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/ABP_FPSArms.uasset" SILENT=true
+[2023.05.27-14.29.46:231][862]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/ABP_FPSArmsAE9AC497493C478BD65E55BA87A7E6EC.tmp' to 'H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/ABP_FPSArms.uasset'
+[2023.05.27-14.29.46:246][862]AssetCheck: New page: Asset Save: ABP_FPSArms
+[2023.05.27-14.29.46:246][862]LogContentValidation: Display: Validating AnimBlueprint /Game/Core/PlayerCharacter/Animations/ABP_FPSArms.ABP_FPSArms
+[2023.05.27-14.30.00:147][599]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Weapons/BPC_M9.BPC_M9
+[2023.05.27-14.31.13:778][258]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset' is outside repository at 'H:/Jam-epitech-3'
+[2023.05.27-14.31.16:595][526]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset' is outside repository at 'H:/Jam-epitech-3'
+[2023.05.27-14.31.40:543][392]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/PlayerCharacter/Animations/M9/FPS_Berretta_m9_Fire.FPS_Berretta_m9_Fire
+[2023.05.27-14.31.50:152][335]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/PlayerCharacter/Animations/M9/FPS_Berretta_m9_ADSFire.FPS_Berretta_m9_ADSFire
+[2023.05.27-14.31.53:647][595]BlueprintLog: New page: Compile BPC_M9
+[2023.05.27-14.31.53:712][595]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2023.05.27-14.31.54:271][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BPC_M9" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9.uasset" SILENT=true
+[2023.05.27-14.31.54:288][626]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BPC_M99BE1101B441106337401948DB0B54160.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9.uasset'
+[2023.05.27-14.31.54:305][626]AssetCheck: New page: Asset Save: BPC_M9
+[2023.05.27-14.31.54:305][626]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BPC_M9.BPC_M9
+[2023.05.27-14.31.55:589][720]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.27-14.31.55:608][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.27-14.31.55:609][720]PIE: New page: PIE session: FirstPersonExampleMap (27 mai 2023 à 18:31:55)
+[2023.05.27-14.31.55:609][720]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-14.31.55:624][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014876s)
+[2023.05.27-14.31.55:625][720]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.27-14.31.55:626][720]LogPlayLevel: PIE: World Init took: (0.001981s)
+[2023.05.27-14.31.55:626][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017141s)
+[2023.05.27-14.31.55:669][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.05.27-14.31.55:670][720]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2023.05.27-14.31.55:670][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.27-14.31.55:670][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.27-14.31.55:670][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.27-14.31.55:670][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.27-14.31.55:670][720]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.27-14.31.55:670][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.27-14.31.55:670][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.27-14.31.55:670][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.27-14.31.55:671][720]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.27-14.31.55:671][720]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.27-14.31.55:671][720]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.27-14.31.55:671][720]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.27-14.31.55:680][720]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.27-14.31.55:680][720]LogAudioMixer: Display: 1: FrontRight
+[2023.05.27-14.31.55:695][720]LogAudioMixer: Display: Using Audio Device Haut-parleurs (HyperX Cloud Alpha S Game)
+[2023.05.27-14.31.55:695][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.27-14.31.55:695][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.27-14.31.55:696][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.27-14.31.55:696][720]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.27-14.31.55:696][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.27-14.31.55:696][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.27-14.31.55:697][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.27-14.31.55:697][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.27-14.31.55:697][720]LogInit: FAudioDevice initialized.
+[2023.05.27-14.31.55:697][720]LogAudio: Display: Audio Device (ID: 50) registered with world 'FirstPersonExampleMap'.
+[2023.05.27-14.31.55:718][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-14.31.55:719][720]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.27-14.31.55:721][720]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.27-16.31.55
+[2023.05.27-14.31.55:721][720]LogGameMode: Warning: No GameStateClass was specified in FirstPersonGameMode_C_0 (FirstPersonGameMode_C)
+[2023.05.27-14.31.55:721][720]LogWorld: Bringing up level for play took: 0.002077
+[2023.05.27-14.31.55:722][720]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2023.05.27-14.31.55:724][720]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.27-14.31.55:728][720]PIE: Server logged in
+[2023.05.27-14.31.55:731][720]PIE: Play in editor total start time 0,136 seconds.
+[2023.05.27-14.32.00:292][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-14.32.00:292][125]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-14.32.00:294][125]LogSlate: Window 'JAM_03 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.27-14.32.00:300][125]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-14.32.00:301][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-14.32.00:311][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.27-14.32.00:329][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-14.32.00:357][125]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.27-14.32.00:357][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-14.32.00:358][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-14.32.00:363][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.05.27-14.32.00:402][126]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2023.05.27-14.32.30:323][677]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-14.32.30:395][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.05.27-14.32.30:920][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-14.32.30:954][711]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterC629FD3941ABF67E35FC5FA65651332E.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-14.32.30:970][711]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-14.32.30:970][711]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-14.32.31:887][814]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.27-14.32.31:904][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.27-14.32.31:904][814]PIE: New page: PIE session: FirstPersonExampleMap (27 mai 2023 à 18:32:31)
+[2023.05.27-14.32.31:905][814]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-14.32.31:917][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012521s)
+[2023.05.27-14.32.31:918][814]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.27-14.32.31:919][814]LogPlayLevel: PIE: World Init took: (0.001754s)
+[2023.05.27-14.32.31:919][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014507s)
+[2023.05.27-14.32.31:952][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.05.27-14.32.31:953][814]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2023.05.27-14.32.31:953][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.27-14.32.31:953][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.27-14.32.31:953][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.27-14.32.31:953][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.27-14.32.31:953][814]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.27-14.32.31:953][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.27-14.32.31:953][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.27-14.32.31:953][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.27-14.32.31:954][814]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.27-14.32.31:954][814]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.27-14.32.31:954][814]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.27-14.32.31:954][814]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.27-14.32.31:962][814]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.27-14.32.31:962][814]LogAudioMixer: Display: 1: FrontRight
+[2023.05.27-14.32.31:978][814]LogAudioMixer: Display: Using Audio Device Haut-parleurs (HyperX Cloud Alpha S Game)
+[2023.05.27-14.32.31:978][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.27-14.32.31:978][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.27-14.32.31:978][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.27-14.32.31:978][814]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.27-14.32.31:978][814]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.27-14.32.31:978][814]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.27-14.32.31:979][814]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.27-14.32.31:980][814]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.27-14.32.31:980][814]LogInit: FAudioDevice initialized.
+[2023.05.27-14.32.31:980][814]LogAudio: Display: Audio Device (ID: 51) registered with world 'FirstPersonExampleMap'.
+[2023.05.27-14.32.32:007][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-14.32.32:007][814]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.27-14.32.32:010][814]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.27-16.32.32
+[2023.05.27-14.32.32:010][814]LogGameMode: Warning: No GameStateClass was specified in FirstPersonGameMode_C_0 (FirstPersonGameMode_C)
+[2023.05.27-14.32.32:010][814]LogWorld: Bringing up level for play took: 0.002329
+[2023.05.27-14.32.32:011][814]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2023.05.27-14.32.32:013][814]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.27-14.32.32:015][814]PIE: Server logged in
+[2023.05.27-14.32.32:018][814]PIE: Play in editor total start time 0,126 seconds.
+[2023.05.27-14.32.44:902][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-14.32.44:902][939]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-14.32.44:903][939]LogSlate: Window 'JAM_03 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.27-14.32.44:926][939]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-14.32.44:926][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-14.32.44:936][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.27-14.32.44:952][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-14.32.44:978][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-14.32.44:979][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-14.32.44:985][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.05.27-14.32.45:010][940]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2023.05.27-14.34.55:842][986]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.27-14.34.55:875][986]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.27-14.34.59:286][273]LogContentBrowser: Attempting asset rename: NewFolder -> Blendspace
+[2023.05.27-14.34.59:286][273]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.27-14.35.05:249][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/PlayerCharacter/Animations/Blendspace/BS1D_M9" FILE="H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/Blendspace/BS1D_M9.uasset" SILENT=true
+[2023.05.27-14.35.05:255][642]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BS1D_M935E506E7417C6EE903A2C18AD96353F1.tmp' to 'H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/Blendspace/BS1D_M9.uasset'
+[2023.05.27-14.35.05:467][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/PlayerCharacter/Animations/BS1D_M9" FILE="H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/BS1D_M9.uasset" SILENT=true
+[2023.05.27-14.35.05:468][642]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BS1D_M945EDAE454FC66C8BA13F1D98A2E24766.tmp' to 'H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/BS1D_M9.uasset'
+[2023.05.27-14.35.05:481][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/PlayerCharacter/Animations/Blendspace/BS1D_M9_ADS" FILE="H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/Blendspace/BS1D_M9_ADS.uasset" SILENT=true
+[2023.05.27-14.35.05:486][642]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BS1D_M9_ADS9661562840393C6549FEA6955ED39718.tmp' to 'H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/Blendspace/BS1D_M9_ADS.uasset'
+[2023.05.27-14.35.05:696][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/PlayerCharacter/Animations/BS1D_M9_ADS" FILE="H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/BS1D_M9_ADS.uasset" SILENT=true
+[2023.05.27-14.35.05:697][642]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BS1D_M9_ADSB82052E24FB63DE09B02EC893B25FC2A.tmp' to 'H:/Jam-epitech-3/Content/Core/PlayerCharacter/Animations/BS1D_M9_ADS.uasset'
+[2023.05.27-14.35.06:114][642]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.27-14.35.06:114][642]LogContentValidation: Display: Validating BlendSpace1D /Game/Core/PlayerCharacter/Animations/Blendspace/BS1D_M9.BS1D_M9
+[2023.05.27-14.35.06:115][642]LogContentValidation: Display: Validating BlendSpace1D /Game/Core/PlayerCharacter/Animations/Blendspace/BS1D_M9_ADS.BS1D_M9_ADS
+[2023.05.27-14.35.06:115][642]LogContentValidation: Display: Validating ObjectRedirector /Game/Core/PlayerCharacter/Animations/BS1D_M9_ADS.BS1D_M9_ADS
+[2023.05.27-14.35.06:115][642]LogContentValidation: Display: Validating ObjectRedirector /Game/Core/PlayerCharacter/Animations/BS1D_M9.BS1D_M9
