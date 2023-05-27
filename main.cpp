@@ -7,11 +7,11 @@ void init_page(yin_yang_t *y)
     bool isRightPressed = false;
     bool isLeftPressed = false;
 
-    if (!y->texture_n.loadFromFile("assets/JAM_TEST.png"))
-    {
+    if (!y->texture_n.loadFromFile("assets/JAM_TEST.png")) {
         std::cout << "Erreur lors du chargement de l'image" << std::endl;
         return;
     }
+    y->window.setFramerateLimit(30);
     y->sprite_n.setTexture(y->texture_n);
     y->sprite_n.setTextureRect(sf::IntRect(0, 0, 17, 28));
     y->sprite_n.setScale(3.0f, 3.0f);
@@ -29,18 +29,18 @@ void init_page(yin_yang_t *y)
             if (event.type == sf::Event::KeyPressed)
             {
                 if (event.key.code == sf::Keyboard::Space) {
-                    if (vitesse_y == 0)
-                        vitesse_y -= 1.7;
+                    if (y->spritePosition_n.y == 900)
+                        vitesse_y -= 15;
                 }
                 if (event.key.code == sf::Keyboard::Right) {
                     if (vitesse_x == 0) {
-                        vitesse_x += 1;
+                        vitesse_x += 10;
                         isRightPressed = true;
                     }
                 }
                 if (event.key.code == sf::Keyboard::Left) {
                     if (vitesse_x == 0) {
-                        vitesse_x -= 1;
+                        vitesse_x -= 10;
                         isLeftPressed = true;
                     }
                 }
@@ -63,12 +63,12 @@ void init_page(yin_yang_t *y)
         }
 
         if (!isRightPressed && !isLeftPressed) {
-            if (vitesse_x < 0.1 && vitesse_x > -0.1 && vitesse_y == 0) {
+            if (vitesse_x < 1 && vitesse_x > -1 && vitesse_y == 0) {
                 vitesse_x = 0;
             } else if (vitesse_x > 0) {
-                vitesse_x -= 0.02;
+                vitesse_x -= 5;
             } else if (vitesse_x < 0)
-                vitesse_x += 0.02;
+                vitesse_x += 5;
         }
 
         y->spritePosition_n.y += vitesse_y;
@@ -76,7 +76,7 @@ void init_page(yin_yang_t *y)
             y->spritePosition_n.y = 900;
             vitesse_y = 0;
         } else if (y->spritePosition_n.y < 900) {
-            vitesse_y += 0.01;
+            vitesse_y += 1;
         }
 
         y->spritePosition_n.x += vitesse_x;
