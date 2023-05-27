@@ -27,7 +27,6 @@ void init_page(yin_yang_t *y)
     make_map("map/map_1.txt", y);
     while (y->window.isOpen()) {
         get_keyboard_event(y);
-
         if (!y->P_1isRightPressed && !y->P_1isLeftPressed) {
             if (y->P_1_vx < 1 && y->P_1_vx > -1 && y->P_1_vy == 0) {
                 y->P_1_vx = 0;
@@ -36,10 +35,8 @@ void init_page(yin_yang_t *y)
             } else if (y->P_1_vx < 0)
                 y->P_1_vx += 5;
         }
-
         y->spritePosition_n.y += y->P_1_vy;
         cond = cond_stop_chute(y);
-        // std::cout << cond << std::endl;
         if (cond != 0) {
             y->spritePosition_n.y = cond;
             y->P_1_vy = 0;
