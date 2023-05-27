@@ -11,7 +11,8 @@ SFMLFLAGS = -lsfml-graphics -lsfml-window -lsfml-system
 
 SRC = main.cpp \
     $(wildcard src/*.cpp)	\
-	$(wildcard src/init/*.cpp)
+	$(wildcard src/init/*.cpp)	\
+	$(wildcard src/game/*.cpp)
 
 OBJ = $(SRC:.cpp=.o)
 NAME = BOH
