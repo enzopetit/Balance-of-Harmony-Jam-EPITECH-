@@ -5584,3 +5584,32 @@ Script Stack (0 frames):
 [2023.05.27-14.49.33:566][793]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BPC_M9_White8EE712404075F0E3D255B085B7BD4FAC.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9_White.uasset'
 [2023.05.27-14.49.33:580][793]AssetCheck: New page: Asset Save: BPC_M9_White
 [2023.05.27-14.49.33:580][793]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BPC_M9_White.BPC_M9_White
+[2023.05.27-15.06.51:954][ 52]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.27-15.06.52:017][ 52]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.27-15.06.53:191][131]LogContentBrowser: Attempting asset rename: NewFolder -> Datas
+[2023.05.27-15.06.53:192][131]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.27-15.07.04:676][880]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2023.05.27-15.07.04:690][880]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2023.05.27-15.07.07:183][ 93]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_ShootingType
+[2023.05.27-15.07.07:304][ 93]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2023.05.27-15.07.08:129][157]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Core/Weapons/Datas/E_ShootingType.E_ShootingType
+[2023.05.27-15.07.15:840][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/Datas/E_ShootingType" FILE="H:/Jam-epitech-3/Content/Core/Weapons/Datas/E_ShootingType.uasset" SILENT=true
+[2023.05.27-15.07.15:841][ 45]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/E_ShootingType26A13D3F4FB7044332A1C5BC4B1B5F2B.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/Datas/E_ShootingType.uasset'
+[2023.05.27-15.07.16:091][ 45]AssetCheck: New page: Asset Save: E_ShootingType
+[2023.05.27-15.07.16:091][ 45]LogContentValidation: Display: Validating UserDefinedEnum /Game/Core/Weapons/Datas/E_ShootingType.E_ShootingType
+[2023.05.27-15.07.25:846][410]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2023.05.27-15.07.25:865][410]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2023.05.27-15.07.28:163][612]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S_WeaponInfo
+[2023.05.27-15.07.28:280][612]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2023.05.27-15.07.29:072][677]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Core/Weapons/Datas/S_WeaponInfo.S_WeaponInfo
+[2023.05.27-15.08.59:445][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/Datas/S_WeaponInfo" FILE="H:/Jam-epitech-3/Content/Core/Weapons/Datas/S_WeaponInfo.uasset" SILENT=true
+[2023.05.27-15.08.59:449][894]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/S_WeaponInfoEEB7DCDA41B1E88B0D148D81FDC2B4EF.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/Datas/S_WeaponInfo.uasset'
+[2023.05.27-15.08.59:800][894]AssetCheck: New page: Asset Save: S_WeaponInfo
+[2023.05.27-15.08.59:800][894]LogContentValidation: Display: Validating UserDefinedStruct /Game/Core/Weapons/Datas/S_WeaponInfo.S_WeaponInfo
+[2023.05.27-15.09.18:965][901]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-15.09.19:113][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2023.05.27-15.09.19:652][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.09.19:685][926]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMaster259C21514EEB9227223A3E8BCBCB351B.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.09.19:701][926]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.09.19:701][926]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.10.33:633][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
