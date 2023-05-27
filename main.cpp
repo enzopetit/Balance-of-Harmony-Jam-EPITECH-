@@ -1,17 +1,6 @@
 #include "jam.hpp"
 
-int cond_stop_chute(yin_yang_t *y)
-{
-    for (int i = 0; i < y->builder.nb_bloc; i++) {
-        std::cout << y->builder.bloc[i].coor_x << ' ' << y->spritePosition_n.y << std::endl;
-        if (y->builder.bloc[i].coor_x - 30 <= y->spritePosition_n.y) {
-            return y->builder.bloc[i].coor_x - 56;
-        }
-    }
-    return 0;
-}
-
-void init_page(yin_yang_t *y)
+void load_personnages(yin_yang_t *y)
 {
     if (!y->texture_n.loadFromFile("assets/perso_noir.png")) {
         return;
@@ -20,10 +9,14 @@ void init_page(yin_yang_t *y)
     y->sprite_n.setTextureRect(sf::IntRect(0, 0, 17, 28));
     y->sprite_n.setScale(2.0f, 2.0f);
     y->spritePosition_n = y->sprite_n.getPosition();
-    y->spritePosition_n.x = 900;
-    y->spritePosition_n.y = 300;
+    y->spritePosition_n.y = 900;
+    y->spritePosition_n.x = 1800;
     y->sprite_n.setPosition(y->spritePosition_n);
-    int cond;
+}
+
+void init_page(yin_yang_t *y)
+{
+    load_personnages(y);
     make_map("map/map_1.txt", y);
     while (y->window.isOpen()) {
         get_keyboard_event(y);
@@ -36,12 +29,31 @@ void init_page(yin_yang_t *y)
                 y->P_1_vx += 5;
         }
         y->spritePosition_n.y += y->P_1_vy;
-        cond = cond_stop_chute(y);
-        if (cond != 0) {
-            y->spritePosition_n.y = cond;
+        if (!y->jump)
+            y->cond = cond_stop_chute(y);
+        else
+            y->cond = 0;
+        if (y->cond != 0) {
+            y->spritePosition_n.y = y->cond;
             y->P_1_vy = 0;
-        } else if (y->spritePosition_n.y < 900) {
+        } else if (y->spritePosition_n.y < 2000) {
             y->P_1_vy += 1;
+        }
+        if (y->spritePosition_n.y >= 2000) {
+            y->lose = true;
+            break;
+        }
+        if (cond_stop_saut(y) != 0) {
+            y->spritePosition_n.y -= y->P_1_vy;
+            y->P_1_vy = 0;
+        }
+        if (y->P_1_vy >= 0) {
+            y->jump = false;
+        }
+
+        if (cond_stop_droite(y) != 0) {
+            y->spritePosition_n.y -= y->P_1_vy * 3;
+            y->P_1_vy = 0;
         }
 
         y->spritePosition_n.x += y->P_1_vx;
@@ -55,6 +67,8 @@ void init_page(yin_yang_t *y)
         y->window.display();
     }
     delete[] y->builder.bloc;
+    if (y->lose)
+        init_page(y);
 }
 
 int main()

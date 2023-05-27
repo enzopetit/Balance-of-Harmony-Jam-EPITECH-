@@ -10,8 +10,9 @@ void get_keyboard_event(yin_yang_t *y)
         if (event.type == sf::Event::KeyPressed)
         {
             if (event.key.code == sf::Keyboard::Up) {
-                if (y->spritePosition_n.y == 900)
-                    y->P_1_vy -= 15;
+                if (y->cond != 0)
+                    y->P_1_vy = -15;
+                y->jump = true;
             }
             if (event.key.code == sf::Keyboard::Right) {
                 if (y->P_1_vx == 0) {

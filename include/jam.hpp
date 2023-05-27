@@ -41,6 +41,10 @@ typedef struct yin_yang {
     bool P_1isLeftPressed = false;
     bool P_2isRightPressed = false;
     bool P_2isLeftPressed = false;
+    bool lose = false;
+    bool jump = false;
+    int cond;
+
     map_build_t builder;
 
     map_t *m;
@@ -60,5 +64,9 @@ constexpr std::chrono::microseconds FRAME_DURATION(16667);
 void make_map(const char *map_name, yin_yang_t *y);
 void get_keyboard_event(yin_yang_t *y);
 int initializeStruct(yin_yang_t *y);
+int cond_stop_chute(yin_yang_t *y);
+int cond_stop_saut(yin_yang_t *y);
+int cond_stop_droite(yin_yang_t *y);
+int cond_stop_gauche(yin_yang_t *y);
 
 #endif /* JAM_H_ */

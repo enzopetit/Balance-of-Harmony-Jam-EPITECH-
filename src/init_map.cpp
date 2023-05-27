@@ -35,7 +35,6 @@ void make_map(const char *map_name, yin_yang_t *y)
             break;
         }
 
-        // std::cout << coor_x << ' ' << coor_y << std::endl;
         if (i < y->builder.nb_bloc) {
             y->builder.bloc[i].coor_x = coor_x;
             y->builder.bloc[i].coor_y = coor_y;
