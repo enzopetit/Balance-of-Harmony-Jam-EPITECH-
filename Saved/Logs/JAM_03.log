@@ -6836,3 +6836,871 @@ Script Stack (0 frames):
 [2023.05.27-15.54.59:691][914]AssetCheck: New page: Asset Save: BP_WeaponMaster
 [2023.05.27-15.54.59:691][914]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
 [2023.05.27-15.55.24:286][116]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2023.05.27-15.56.36:302][999]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.05.27-15.56.36:322][999]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.05.27-15.56.40:320][356]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UI_GameHUD
+[2023.05.27-15.56.40:429][356]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.05.27-15.56.50:221][510]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Core/UI/UI_GameHUD.UI_GameHUD
+[2023.05.27-15.57.30:020][529]BlueprintLog: New page: Compile UI_GameHUD
+[2023.05.27-15.57.30:078][529]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2023.05.27-15.57.30:596][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_GameHUD" FILE="H:/Jam-epitech-3/Content/Core/UI/UI_GameHUD.uasset" SILENT=true
+[2023.05.27-15.57.30:601][549]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/UI_GameHUDD4875CBC4132B32C823048810D044272.tmp' to 'H:/Jam-epitech-3/Content/Core/UI/UI_GameHUD.uasset'
+[2023.05.27-15.57.30:828][549]AssetCheck: New page: Asset Save: UI_GameHUD
+[2023.05.27-15.57.30:828][549]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_GameHUD.UI_GameHUD
+[2023.05.27-15.57.57:835][ 76]BlueprintLog: New page: Compile UI_GameHUD
+[2023.05.27-15.57.57:912][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2023.05.27-15.57.58:482][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_GameHUD" FILE="H:/Jam-epitech-3/Content/Core/UI/UI_GameHUD.uasset" SILENT=true
+[2023.05.27-15.57.58:488][105]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/UI_GameHUDA390A6904F20DA1FF805C1B585010E95.tmp' to 'H:/Jam-epitech-3/Content/Core/UI/UI_GameHUD.uasset'
+[2023.05.27-15.57.58:507][105]AssetCheck: New page: Asset Save: UI_GameHUD
+[2023.05.27-15.57.58:507][105]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_GameHUD.UI_GameHUD
+[2023.05.27-15.58.10:699][427]BlueprintLog: New page: Compile UI_GameHUD
+[2023.05.27-15.58.10:770][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2023.05.27-15.58.11:274][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_GameHUD" FILE="H:/Jam-epitech-3/Content/Core/UI/UI_GameHUD.uasset" SILENT=true
+[2023.05.27-15.58.11:280][467]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/UI_GameHUDC8F3F6204F86DE92F659AAA41450E470.tmp' to 'H:/Jam-epitech-3/Content/Core/UI/UI_GameHUD.uasset'
+[2023.05.27-15.58.11:303][467]AssetCheck: New page: Asset Save: UI_GameHUD
+[2023.05.27-15.58.11:303][467]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_GameHUD.UI_GameHUD
+[2023.05.27-15.58.25:621][ 24]BlueprintLog: New page: Compile UI_GameHUD
+[2023.05.27-15.58.25:693][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2023.05.27-15.58.26:280][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_GameHUD" FILE="H:/Jam-epitech-3/Content/Core/UI/UI_GameHUD.uasset" SILENT=true
+[2023.05.27-15.58.26:286][ 62]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/UI_GameHUDAAED5B8E43A53A670DD31B92283B6502.tmp' to 'H:/Jam-epitech-3/Content/Core/UI/UI_GameHUD.uasset'
+[2023.05.27-15.58.26:307][ 62]AssetCheck: New page: Asset Save: UI_GameHUD
+[2023.05.27-15.58.26:307][ 62]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_GameHUD.UI_GameHUD
+[2023.05.27-15.58.32:531][737]BlueprintLog: New page: Compile UI_GameHUD
+[2023.05.27-15.58.32:604][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2023.05.27-15.58.33:073][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_GameHUD" FILE="H:/Jam-epitech-3/Content/Core/UI/UI_GameHUD.uasset" SILENT=true
+[2023.05.27-15.58.33:079][759]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/UI_GameHUD86987ACB44C874C0C70843B0F123A5A9.tmp' to 'H:/Jam-epitech-3/Content/Core/UI/UI_GameHUD.uasset'
+[2023.05.27-15.58.33:098][759]AssetCheck: New page: Asset Save: UI_GameHUD
+[2023.05.27-15.58.33:098][759]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_GameHUD.UI_GameHUD
+[2023.05.27-15.58.45:582][662]BlueprintLog: New page: Compile UI_GameHUD
+[2023.05.27-15.58.45:655][662]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2023.05.27-15.58.46:154][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_GameHUD" FILE="H:/Jam-epitech-3/Content/Core/UI/UI_GameHUD.uasset" SILENT=true
+[2023.05.27-15.58.46:160][691]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/UI_GameHUDFF34CB984C8F1AA8BBA643ABAEC90949.tmp' to 'H:/Jam-epitech-3/Content/Core/UI/UI_GameHUD.uasset'
+[2023.05.27-15.58.46:179][691]AssetCheck: New page: Asset Save: UI_GameHUD
+[2023.05.27-15.58.46:179][691]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_GameHUD.UI_GameHUD
+[2023.05.27-16.00.55:960][956]BlueprintLog: New page: Compile UI_GameHUD
+[2023.05.27-16.00.56:040][956]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2023.05.27-16.00.56:561][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_GameHUD" FILE="H:/Jam-epitech-3/Content/Core/UI/UI_GameHUD.uasset" SILENT=true
+[2023.05.27-16.00.56:578][985]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/UI_GameHUD4C83885B4492D29A57AB9CA4D19CF3D1.tmp' to 'H:/Jam-epitech-3/Content/Core/UI/UI_GameHUD.uasset'
+[2023.05.27-16.00.56:597][985]AssetCheck: New page: Asset Save: UI_GameHUD
+[2023.05.27-16.00.56:597][985]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_GameHUD.UI_GameHUD
+[2023.05.27-16.01.22:315][ 76]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.05.27-16.01.22:356][ 76]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.27-16.01.30:808][ 11]BlueprintLog: New page: Compile FPS_Character
+[2023.05.27-16.01.30:918][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2023.05.27-16.01.31:433][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/PlayerCharacter/FPS_Character" FILE="H:/Jam-epitech-3/Content/Core/PlayerCharacter/FPS_Character.uasset" SILENT=true
+[2023.05.27-16.01.31:484][ 31]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/FPS_Character0745D74345DA206D54535DA8F08340B2.tmp' to 'H:/Jam-epitech-3/Content/Core/PlayerCharacter/FPS_Character.uasset'
+[2023.05.27-16.01.31:503][ 31]AssetCheck: New page: Asset Save: FPS_Character
+[2023.05.27-16.01.31:503][ 31]LogContentValidation: Display: Validating Blueprint /Game/Core/PlayerCharacter/FPS_Character.FPS_Character
+[2023.05.27-16.01.37:337][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/PlayerCharacter/FPS_Character" FILE="H:/Jam-epitech-3/Content/Core/PlayerCharacter/FPS_Character.uasset" SILENT=true
+[2023.05.27-16.01.37:397][226]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/FPS_CharacterC190612C4ABD950B89ACFEAC69F5BC37.tmp' to 'H:/Jam-epitech-3/Content/Core/PlayerCharacter/FPS_Character.uasset'
+[2023.05.27-16.01.37:422][226]AssetCheck: New page: Asset Save: FPS_Character
+[2023.05.27-16.01.37:422][226]LogContentValidation: Display: Validating Blueprint /Game/Core/PlayerCharacter/FPS_Character.FPS_Character
+[2023.05.27-16.01.37:983][265]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.27-16.01.38:005][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.27-16.01.38:006][265]PIE: New page: PIE session: FirstPersonExampleMap (27 mai 2023 à 20:01:38)
+[2023.05.27-16.01.38:006][265]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-16.01.38:024][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018460s)
+[2023.05.27-16.01.38:026][265]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.27-16.01.38:027][265]LogPlayLevel: PIE: World Init took: (0.002236s)
+[2023.05.27-16.01.38:027][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.021047s)
+[2023.05.27-16.01.38:109][265]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2023.05.27-16.01.38:110][265]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2023.05.27-16.01.38:110][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.27-16.01.38:111][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.27-16.01.38:111][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.27-16.01.38:111][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.27-16.01.38:111][265]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.27-16.01.38:111][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.27-16.01.38:111][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.27-16.01.38:111][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.27-16.01.38:112][265]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.27-16.01.38:112][265]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.27-16.01.38:112][265]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.27-16.01.38:112][265]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.27-16.01.38:125][265]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.27-16.01.38:125][265]LogAudioMixer: Display: 1: FrontRight
+[2023.05.27-16.01.38:154][265]LogAudioMixer: Display: Using Audio Device Haut-parleurs (HyperX Cloud Alpha S Game)
+[2023.05.27-16.01.38:155][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.27-16.01.38:155][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.27-16.01.38:155][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.27-16.01.38:155][265]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.27-16.01.38:155][265]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.27-16.01.38:155][265]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.27-16.01.38:157][265]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.27-16.01.38:157][265]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.27-16.01.38:157][265]LogInit: FAudioDevice initialized.
+[2023.05.27-16.01.38:157][265]LogAudio: Display: Audio Device (ID: 74) registered with world 'FirstPersonExampleMap'.
+[2023.05.27-16.01.38:190][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-16.01.38:191][265]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.27-16.01.38:194][265]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.27-18.01.38
+[2023.05.27-16.01.38:195][265]LogGameMode: Warning: No GameStateClass was specified in FirstPersonGameMode_C_0 (FirstPersonGameMode_C)
+[2023.05.27-16.01.38:195][265]LogWorld: Bringing up level for play took: 0.003225
+[2023.05.27-16.01.38:195][265]LogOnline: OSS: Creating online subsystem instance for: :Context_142
+[2023.05.27-16.01.38:199][265]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.27-16.01.38:206][265]PIE: Server logged in
+[2023.05.27-16.01.38:212][265]PIE: Play in editor total start time 0,221 seconds.
+[2023.05.27-16.01.38:222][265]LogScript: Warning: Accessed None trying to read property WeaponRef
+	UI_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_72.UI_GameHUD_C_0
+	Function /Game/Core/UI/UI_GameHUD.UI_GameHUD_C:GetCurrentAmmo:0046
+[2023.05.27-16.01.38:223][265]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:223][265]LogScript: Warning: Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B
+	UI_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_72.UI_GameHUD_C_0
+	Function /Game/Core/UI/UI_GameHUD.UI_GameHUD_C:GetCurrentAmmo:005B
+[2023.05.27-16.01.38:223][265]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:224][265]LogScript: Warning: Accessed None trying to read property WeaponRef
+	UI_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_72.UI_GameHUD_C_0
+	Function /Game/Core/UI/UI_GameHUD.UI_GameHUD_C:GetMaxAmmo:0046
+[2023.05.27-16.01.38:224][265]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:224][265]LogScript: Warning: Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC
+	UI_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_72.UI_GameHUD_C_0
+	Function /Game/Core/UI/UI_GameHUD.UI_GameHUD_C:GetMaxAmmo:005B
+[2023.05.27-16.01.38:224][265]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:309][266]LogScript: Warning: Accessed None trying to read property WeaponRef
+	UI_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_72.UI_GameHUD_C_0
+	Function /Game/Core/UI/UI_GameHUD.UI_GameHUD_C:GetCurrentAmmo:0046
+[2023.05.27-16.01.38:309][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:310][266]LogScript: Warning: Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B
+	UI_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_72.UI_GameHUD_C_0
+	Function /Game/Core/UI/UI_GameHUD.UI_GameHUD_C:GetCurrentAmmo:005B
+[2023.05.27-16.01.38:310][266]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:310][266]LogScript: Warning: Accessed None trying to read property WeaponRef
+	UI_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_72.UI_GameHUD_C_0
+	Function /Game/Core/UI/UI_GameHUD.UI_GameHUD_C:GetMaxAmmo:0046
+[2023.05.27-16.01.38:310][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:311][266]LogScript: Warning: Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC
+	UI_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_72.UI_GameHUD_C_0
+	Function /Game/Core/UI/UI_GameHUD.UI_GameHUD_C:GetMaxAmmo:005B
+[2023.05.27-16.01.38:311][266]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:348][267]LogScript: Warning: Accessed None trying to read property WeaponRef
+	UI_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_72.UI_GameHUD_C_0
+	Function /Game/Core/UI/UI_GameHUD.UI_GameHUD_C:GetCurrentAmmo:0046
+[2023.05.27-16.01.38:349][267]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:349][267]LogScript: Warning: Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B
+	UI_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_72.UI_GameHUD_C_0
+	Function /Game/Core/UI/UI_GameHUD.UI_GameHUD_C:GetCurrentAmmo:005B
+[2023.05.27-16.01.38:349][267]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:349][267]LogScript: Warning: Accessed None trying to read property WeaponRef
+	UI_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_72.UI_GameHUD_C_0
+	Function /Game/Core/UI/UI_GameHUD.UI_GameHUD_C:GetMaxAmmo:0046
+[2023.05.27-16.01.38:349][267]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:349][267]LogScript: Warning: Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC
+	UI_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_72.UI_GameHUD_C_0
+	Function /Game/Core/UI/UI_GameHUD.UI_GameHUD_C:GetMaxAmmo:005B
+[2023.05.27-16.01.38:350][267]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:376][268]LogScript: Warning: Accessed None trying to read property WeaponRef
+	UI_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_72.UI_GameHUD_C_0
+	Function /Game/Core/UI/UI_GameHUD.UI_GameHUD_C:GetCurrentAmmo:0046
+[2023.05.27-16.01.38:376][268]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:376][268]LogScript: Warning: Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B
+	UI_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_72.UI_GameHUD_C_0
+	Function /Game/Core/UI/UI_GameHUD.UI_GameHUD_C:GetCurrentAmmo:005B
+[2023.05.27-16.01.38:377][268]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:377][268]LogScript: Warning: Accessed None trying to read property WeaponRef
+	UI_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_72.UI_GameHUD_C_0
+	Function /Game/Core/UI/UI_GameHUD.UI_GameHUD_C:GetMaxAmmo:0046
+[2023.05.27-16.01.38:377][268]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:377][268]LogScript: Warning: Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC
+	UI_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_72.UI_GameHUD_C_0
+	Function /Game/Core/UI/UI_GameHUD.UI_GameHUD_C:GetMaxAmmo:005B
+[2023.05.27-16.01.38:377][268]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:396][269]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:396][269]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:396][269]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:397][269]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:415][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:415][270]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:415][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:415][270]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:435][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:435][271]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:436][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:436][271]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:454][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:454][272]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:454][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:454][272]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:471][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:471][273]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:471][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:471][273]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:489][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:489][274]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:489][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:489][274]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:513][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:514][275]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:514][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:514][275]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:528][276]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:529][276]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:529][276]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:529][276]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:554][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:554][277]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:554][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:554][277]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:567][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:567][278]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:567][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:567][278]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:582][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:582][279]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:582][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:582][279]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:602][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:602][280]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:602][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:603][280]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:623][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:623][281]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:623][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:623][281]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:640][282]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:641][282]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:641][282]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:641][282]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:652][283]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:652][283]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:652][283]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:652][283]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:666][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:666][284]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:666][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:666][284]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:679][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:680][285]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:680][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:680][285]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:692][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:692][286]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:692][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:692][286]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:708][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:708][287]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:708][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:708][287]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:719][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:720][288]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:720][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:720][288]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:734][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:734][289]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:734][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:734][289]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:747][290]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:747][290]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:747][290]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:747][290]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:761][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:761][291]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:761][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:761][291]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:774][292]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:774][292]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:774][292]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:774][292]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:788][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:788][293]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:789][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:789][293]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:804][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:804][294]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:804][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:804][294]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:816][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:816][295]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:816][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:816][295]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:829][296]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:829][296]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:829][296]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:829][296]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:841][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:842][297]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:842][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:842][297]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:853][298]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:853][298]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:853][298]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:853][298]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:867][299]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:867][299]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:867][299]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:867][299]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:879][300]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:880][300]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:880][300]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:880][300]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:893][301]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:893][301]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:893][301]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:894][301]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:907][302]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:907][302]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:907][302]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:907][302]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:920][303]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:920][303]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:920][303]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:920][303]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:933][304]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:933][304]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:934][304]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:934][304]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:945][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:945][305]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:946][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:946][305]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:958][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:958][306]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:958][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:958][306]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:971][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:971][307]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:971][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:971][307]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:984][308]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:984][308]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:984][308]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:984][308]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:998][309]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:998][309]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.38:998][309]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.38:998][309]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.39:011][310]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.39:011][310]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.39:011][310]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.39:011][310]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.39:022][311]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.39:022][311]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.01.39:023][311]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.39:023][311]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.01.49:083][ 38]LogBlueprintUserMessages: [BPC_M9_C_0] Out of ammos
+[2023.05.27-16.01.49:616][ 76]LogBlueprintUserMessages: [BPC_M9_C_0] Out of ammos
+[2023.05.27-16.01.49:880][ 96]LogBlueprintUserMessages: [BPC_M9_C_0] Out of ammos
+[2023.05.27-16.01.50:042][108]LogBlueprintUserMessages: [BPC_M9_C_0] Out of ammos
+[2023.05.27-16.01.50:180][118]LogBlueprintUserMessages: [BPC_M9_C_0] Out of ammos
+[2023.05.27-16.01.50:329][129]LogBlueprintUserMessages: [BPC_M9_C_0] Out of ammos
+[2023.05.27-16.01.50:540][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-16.01.50:540][142]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-16.01.50:542][142]LogSlate: Window 'JAM_03 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.27-16.01.50:563][142]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.01.50:564][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.01.50:574][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.27-16.01.50:595][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.01.50:636][142]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.27-16.01.50:637][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-16.01.50:638][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-16.01.50:647][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.05.27-16.01.50:766][143]LogPlayLevel: Display: Destroying online subsystem :Context_142
+[2023.05.27-16.02.23:345][138]BlueprintLog: New page: Compile BPC_M9
+[2023.05.27-16.02.23:425][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.05.27-16.02.23:899][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BPC_M9" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9.uasset" SILENT=true
+[2023.05.27-16.02.23:910][164]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BPC_M9EE5195164C6B3349C36ED79BDF7B53CF.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9.uasset'
+[2023.05.27-16.02.23:934][164]AssetCheck: New page: Asset Save: BPC_M9
+[2023.05.27-16.02.23:934][164]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BPC_M9.BPC_M9
+[2023.05.27-16.02.25:586][195]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.27-16.02.25:605][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.27-16.02.25:605][195]PIE: New page: PIE session: FirstPersonExampleMap (27 mai 2023 à 20:02:25)
+[2023.05.27-16.02.25:606][195]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-16.02.25:619][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013116s)
+[2023.05.27-16.02.25:620][195]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.27-16.02.25:621][195]LogPlayLevel: PIE: World Init took: (0.001966s)
+[2023.05.27-16.02.25:621][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015308s)
+[2023.05.27-16.02.25:684][195]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2023.05.27-16.02.25:685][195]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2023.05.27-16.02.25:685][195]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.27-16.02.25:685][195]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.27-16.02.25:685][195]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.27-16.02.25:686][195]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.27-16.02.25:686][195]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.27-16.02.25:686][195]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.27-16.02.25:686][195]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.27-16.02.25:686][195]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.27-16.02.25:687][195]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.27-16.02.25:687][195]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.27-16.02.25:687][195]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.27-16.02.25:687][195]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.27-16.02.25:700][195]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.27-16.02.25:700][195]LogAudioMixer: Display: 1: FrontRight
+[2023.05.27-16.02.25:745][195]LogAudioMixer: Display: Using Audio Device Haut-parleurs (HyperX Cloud Alpha S Game)
+[2023.05.27-16.02.25:746][195]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.27-16.02.25:746][195]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.27-16.02.25:746][195]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.27-16.02.25:747][195]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.27-16.02.25:747][195]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.27-16.02.25:747][195]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.27-16.02.25:749][195]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.27-16.02.25:749][195]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.27-16.02.25:749][195]LogInit: FAudioDevice initialized.
+[2023.05.27-16.02.25:749][195]LogAudio: Display: Audio Device (ID: 75) registered with world 'FirstPersonExampleMap'.
+[2023.05.27-16.02.25:782][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-16.02.25:782][195]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.27-16.02.25:786][195]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.27-18.02.25
+[2023.05.27-16.02.25:787][195]LogGameMode: Warning: No GameStateClass was specified in FirstPersonGameMode_C_0 (FirstPersonGameMode_C)
+[2023.05.27-16.02.25:787][195]LogWorld: Bringing up level for play took: 0.003331
+[2023.05.27-16.02.25:787][195]LogOnline: OSS: Creating online subsystem instance for: :Context_143
+[2023.05.27-16.02.25:790][195]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.27-16.02.25:794][195]PIE: Server logged in
+[2023.05.27-16.02.25:796][195]PIE: Play in editor total start time 0,203 seconds.
+[2023.05.27-16.02.25:806][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.25:806][195]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.25:807][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.25:807][195]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.25:887][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.25:887][196]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.25:888][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.25:888][196]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.25:917][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.25:917][197]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.25:917][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.25:917][197]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.25:946][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.25:946][198]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.25:946][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.25:946][198]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.25:972][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.25:972][199]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.25:973][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.25:973][199]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.25:992][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.25:992][200]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.25:992][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.25:992][200]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:021][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:022][201]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:022][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:022][201]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:045][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:045][202]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:045][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:046][202]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:066][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:066][203]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:067][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:067][203]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:089][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:090][204]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:090][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:090][204]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:113][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:114][205]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:114][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:114][205]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:134][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:134][206]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:134][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:134][206]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:152][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:152][207]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:152][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:152][207]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:175][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:175][208]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:175][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:175][208]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:189][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:190][209]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:190][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:190][209]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:210][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:210][210]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:210][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:210][210]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:226][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:226][211]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:226][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:226][211]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:247][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:247][212]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:247][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:247][212]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:272][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:272][213]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:272][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:272][213]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:285][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:285][214]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:285][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:285][214]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:297][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:297][215]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:297][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:297][215]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:311][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:311][216]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:311][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:311][216]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:325][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:325][217]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:325][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:326][217]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:343][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:343][218]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:343][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:343][218]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:355][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:355][219]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:356][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:356][219]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:372][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:372][220]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:373][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:373][220]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:389][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:399][221]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:399][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:399][221]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:419][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:420][222]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:420][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:420][222]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:439][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:439][223]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:439][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:439][223]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:463][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:463][224]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:463][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:464][224]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:483][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:483][225]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:483][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:483][225]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:497][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:498][226]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:498][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:498][226]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:515][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:516][227]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:516][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:516][227]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:528][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:528][228]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:528][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:528][228]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:544][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:544][229]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:544][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:544][229]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:558][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:558][230]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:558][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:558][230]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:576][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:577][231]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:577][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:577][231]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:596][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:596][232]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:596][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:596][232]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:612][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:612][233]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:612][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:613][233]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:630][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:630][234]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:630][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:630][234]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:647][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:647][235]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:648][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:648][235]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:661][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:661][236]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:661][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:661][236]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:680][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:680][237]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:680][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:680][237]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:694][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:694][238]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:694][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:694][238]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:713][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:713][239]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:713][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:713][239]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:731][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:732][240]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:732][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:732][240]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:749][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:749][241]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:750][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:750][241]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:764][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:764][242]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.02.26:765][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.26:765][242]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.02.32:953][666]LogBlueprintUserMessages: [BPC_M9_C_0] Out of ammos
+[2023.05.27-16.02.33:281][689]LogBlueprintUserMessages: [BPC_M9_C_0] Out of ammos
+[2023.05.27-16.02.33:850][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-16.02.33:850][727]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-16.02.33:851][727]LogSlate: Window 'JAM_03 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.27-16.02.33:860][727]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.02.33:861][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.02.33:870][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.27-16.02.33:890][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.02.33:931][727]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.27-16.02.33:931][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-16.02.33:932][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-16.02.33:940][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2023.05.27-16.02.34:063][728]LogPlayLevel: Display: Destroying online subsystem :Context_143
+[2023.05.27-16.05.11:480][861]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-16.05.11:645][861]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2023.05.27-16.05.12:195][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-16.05.12:284][878]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterB76DF1DD48703E35A852338D09EF68BE.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-16.05.12:308][878]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-16.05.12:308][878]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-16.05.22:712][455]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-16.05.22:841][455]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2023.05.27-16.05.23:425][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-16.05.23:515][478]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMaster471FCAC342D1D61F83ACE2BBB0915F88.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-16.05.23:538][478]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-16.05.23:538][478]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-16.05.33:709][291]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-16.05.33:839][291]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2023.05.27-16.05.34:356][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-16.05.34:449][310]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterA3F2128C4735441CECB5D4BFF410E566.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-16.05.34:468][310]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-16.05.34:468][310]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-16.05.53:008][290]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-16.05.53:130][290]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2023.05.27-16.05.53:645][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-16.05.53:733][304]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMaster57F2531F45E24EC0106826AD016CC9E3.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-16.05.53:754][304]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-16.05.53:754][304]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-16.06.07:540][244]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-16.06.07:667][244]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2023.05.27-16.06.08:214][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-16.06.08:304][266]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMaster9FA5B67F41C1E0CC5D205DB1FCF17D60.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-16.06.08:326][266]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-16.06.08:326][266]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-16.06.28:810][326]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-16.06.28:939][326]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2023.05.27-16.06.29:549][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-16.06.29:652][346]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterB493E6084F3D5C64C466C08F9A4B1484.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-16.06.29:678][346]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-16.06.29:678][346]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-16.07.24:834][968]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-16.07.24:966][968]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2023.05.27-16.07.25:497][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-16.07.25:598][988]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMaster57325E47411C0DE40DBE9389D4198AD7.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-16.07.25:621][988]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-16.07.25:621][988]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-16.07.37:081][964]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/PlayerCharacter/Animations/M9/FPS_Berretta_m9_Reload.FPS_Berretta_m9_Reload
+[2023.05.27-16.07.40:881][221]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Weapons/Animations/ANIM_Berretta_m9_Reload.ANIM_Berretta_m9_Reload
+[2023.05.27-16.07.42:095][328]BlueprintLog: New page: Compile BPC_M9
+[2023.05.27-16.07.42:185][328]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2023.05.27-16.07.42:736][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BPC_M9" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9.uasset" SILENT=true
+[2023.05.27-16.07.42:747][352]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BPC_M92C8F844D458CC225AE40C19E40EE0503.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9.uasset'
+[2023.05.27-16.07.42:774][352]AssetCheck: New page: Asset Save: BPC_M9
+[2023.05.27-16.07.42:774][352]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BPC_M9.BPC_M9
+[2023.05.27-16.07.45:691][552]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.05.27-16.08.28:121][761]BlueprintLog: New page: Compile FPS_Character
+[2023.05.27-16.08.28:240][761]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2023.05.27-16.08.28:687][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/PlayerCharacter/FPS_Character" FILE="H:/Jam-epitech-3/Content/Core/PlayerCharacter/FPS_Character.uasset" SILENT=true
+[2023.05.27-16.08.28:741][770]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/FPS_Character38B88D6741315A74DFDE4F8716F65CB7.tmp' to 'H:/Jam-epitech-3/Content/Core/PlayerCharacter/FPS_Character.uasset'
+[2023.05.27-16.08.28:762][770]AssetCheck: New page: Asset Save: FPS_Character
+[2023.05.27-16.08.28:762][770]LogContentValidation: Display: Validating Blueprint /Game/Core/PlayerCharacter/FPS_Character.FPS_Character
+[2023.05.27-16.08.42:889][ 47]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.27-16.08.42:908][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.27-16.08.42:908][ 47]PIE: New page: PIE session: FirstPersonExampleMap (27 mai 2023 à 20:08:42)
+[2023.05.27-16.08.42:908][ 47]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-16.08.42:921][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012738s)
+[2023.05.27-16.08.42:923][ 47]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.27-16.08.42:923][ 47]LogPlayLevel: PIE: World Init took: (0.002118s)
+[2023.05.27-16.08.42:923][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015081s)
+[2023.05.27-16.08.42:976][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2023.05.27-16.08.42:977][ 47]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2023.05.27-16.08.42:977][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.27-16.08.42:977][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.27-16.08.42:977][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.27-16.08.42:977][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.27-16.08.42:977][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.27-16.08.42:977][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.27-16.08.42:977][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.27-16.08.42:977][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.27-16.08.42:978][ 47]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.27-16.08.42:978][ 47]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.27-16.08.42:978][ 47]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.27-16.08.42:978][ 47]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.27-16.08.42:987][ 47]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.27-16.08.42:987][ 47]LogAudioMixer: Display: 1: FrontRight
+[2023.05.27-16.08.43:008][ 47]LogAudioMixer: Display: Using Audio Device Haut-parleurs (HyperX Cloud Alpha S Game)
+[2023.05.27-16.08.43:009][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.27-16.08.43:009][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.27-16.08.43:009][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.27-16.08.43:009][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.27-16.08.43:010][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.27-16.08.43:010][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.27-16.08.43:011][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.27-16.08.43:011][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.27-16.08.43:011][ 47]LogInit: FAudioDevice initialized.
+[2023.05.27-16.08.43:011][ 47]LogAudio: Display: Audio Device (ID: 76) registered with world 'FirstPersonExampleMap'.
+[2023.05.27-16.08.43:046][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-16.08.43:046][ 47]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.27-16.08.43:049][ 47]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.27-18.08.43
+[2023.05.27-16.08.43:049][ 47]LogGameMode: Warning: No GameStateClass was specified in FirstPersonGameMode_C_0 (FirstPersonGameMode_C)
+[2023.05.27-16.08.43:049][ 47]LogWorld: Bringing up level for play took: 0.002418
+[2023.05.27-16.08.43:049][ 47]LogOnline: OSS: Creating online subsystem instance for: :Context_144
+[2023.05.27-16.08.43:052][ 47]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.27-16.08.43:059][ 47]PIE: Server logged in
+[2023.05.27-16.08.43:064][ 47]PIE: Play in editor total start time 0,17 seconds.
+[2023.05.27-16.08.43:076][ 47]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:077][ 47]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:077][ 47]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:077][ 47]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:180][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:181][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:181][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:181][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:225][ 49]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:225][ 49]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:225][ 49]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:225][ 49]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:253][ 50]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:253][ 50]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:254][ 50]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:254][ 50]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:280][ 51]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:280][ 51]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:280][ 51]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:281][ 51]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:304][ 52]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:304][ 52]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:304][ 52]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:304][ 52]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:325][ 53]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:325][ 53]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:325][ 53]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:326][ 53]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:343][ 54]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:344][ 54]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:344][ 54]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:344][ 54]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:368][ 55]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:369][ 55]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:369][ 55]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:369][ 55]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:389][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:389][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:390][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:390][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:411][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:412][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:412][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:412][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:437][ 58]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:437][ 58]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:437][ 58]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:437][ 58]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:460][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:460][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:460][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:460][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:487][ 60]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:488][ 60]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:488][ 60]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:488][ 60]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:507][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:508][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:508][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:508][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:525][ 62]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:526][ 62]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:526][ 62]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:526][ 62]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:548][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:548][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:548][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:549][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:569][ 64]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:570][ 64]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:570][ 64]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:570][ 64]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:589][ 65]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:589][ 65]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:589][ 65]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:589][ 65]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:610][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:611][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:611][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:611][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:638][ 67]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:638][ 67]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:639][ 67]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:639][ 67]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:656][ 68]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:656][ 68]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:656][ 68]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:656][ 68]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:674][ 69]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:674][ 69]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:674][ 69]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:675][ 69]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:696][ 70]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:696][ 70]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:697][ 70]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:697][ 70]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:715][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:715][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:715][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:715][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:728][ 72]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:728][ 72]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:729][ 72]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:729][ 72]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:748][ 73]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:748][ 73]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:748][ 73]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:748][ 73]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:765][ 74]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:765][ 74]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:765][ 74]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:765][ 74]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:784][ 75]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:784][ 75]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:784][ 75]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:784][ 75]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:804][ 76]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:804][ 76]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:805][ 76]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:805][ 76]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:821][ 77]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:821][ 77]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:821][ 77]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:821][ 77]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:840][ 78]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:840][ 78]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:841][ 78]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:841][ 78]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:858][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:858][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:858][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:858][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:878][ 80]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:878][ 80]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:878][ 80]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:879][ 80]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:894][ 81]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:894][ 81]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure CurrentAmmo_24_59BA545A4C7AE9F9CF62258A0742D78B". Blueprint:  UI_GameHUD Function:  Get Current Ammo Graph:  GetCurrentAmmo Node:  Return Node
+[2023.05.27-16.08.43:894][ 81]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponRef". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.43:895][ 81]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MaxAmmo_23_9F9AAFF5425B3BF3A9F03DA5E9948BEC". Blueprint:  UI_GameHUD Function:  Get Max Ammo Graph:  GetMaxAmmo Node:  Return Node
+[2023.05.27-16.08.52:880][707]LogBlueprintUserMessages: [BPC_M9_C_0] Out of ammos
+[2023.05.27-16.08.53:074][720]LogBlueprintUserMessages: [BPC_M9_C_0] Out of ammos
+[2023.05.27-16.08.53:678][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-16.08.53:678][755]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-16.08.53:680][755]LogSlate: Window 'JAM_03 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.27-16.08.53:704][755]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.08.53:704][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.08.53:714][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.27-16.08.53:733][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.08.53:776][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-16.08.53:777][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-16.08.53:786][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.05.27-16.08.53:917][756]LogPlayLevel: Display: Destroying online subsystem :Context_144
+[2023.05.27-16.09.30:939][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
