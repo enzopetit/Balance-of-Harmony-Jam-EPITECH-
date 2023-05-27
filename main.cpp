@@ -1,108 +1,72 @@
-/*
-** EPITECH PROJECT, 2023
-** main
-** File description:
-** Balance of harmony
-*/
-
 #include "jam.hpp"
+
+int cond_stop_chute(yin_yang_t *y)
+{
+    for (int i = 0; i < y->builder.nb_bloc; i++) {
+        std::cout << y->builder.bloc[i].coor_x << ' ' << y->spritePosition_n.y << std::endl;
+        if (y->builder.bloc[i].coor_x - 30 <= y->spritePosition_n.y) {
+            return y->builder.bloc[i].coor_x - 56;
+        }
+    }
+    return 0;
+}
 
 void init_page(yin_yang_t *y)
 {
-    float vitesse_x = 0;
-    float vitesse_y = 0;
-    bool isRightPressed = false;
-    bool isLeftPressed = false;
-
-    if (!y->texture_n.loadFromFile("assets/JAM_TEST.png")) {
-        std::cout << "Erreur lors du chargement de l'image" << std::endl;
+    if (!y->texture_n.loadFromFile("assets/perso_noir.png")) {
         return;
     }
-    y->window.setFramerateLimit(30);
     y->sprite_n.setTexture(y->texture_n);
     y->sprite_n.setTextureRect(sf::IntRect(0, 0, 17, 28));
-    y->sprite_n.setScale(3.0f, 3.0f);
+    y->sprite_n.setScale(2.0f, 2.0f);
     y->spritePosition_n = y->sprite_n.getPosition();
-    y->spritePosition_n.y = 900;
+    y->spritePosition_n.x = 900;
+    y->spritePosition_n.y = 300;
     y->sprite_n.setPosition(y->spritePosition_n);
+    int cond;
+    make_map("map/map_1.txt", y);
+    while (y->window.isOpen()) {
+        get_keyboard_event(y);
 
-    while (y->window.isOpen())
-    {
-        sf::Event event;
-        while (y->window.pollEvent(event))
-        {
-            if (event.type == sf::Event::Closed)
-                y->window.close();
-            if (event.type == sf::Event::KeyPressed)
-            {
-                if (event.key.code == sf::Keyboard::Space) {
-                    if (y->spritePosition_n.y == 900)
-                        vitesse_y -= 15;
-                }
-                if (event.key.code == sf::Keyboard::Right) {
-                    if (vitesse_x == 0) {
-                        vitesse_x += 10;
-                        isRightPressed = true;
-                    }
-                }
-                if (event.key.code == sf::Keyboard::Left) {
-                    if (vitesse_x == 0) {
-                        vitesse_x -= 10;
-                        isLeftPressed = true;
-                    }
-                }
-                if (event.key.code == sf::Keyboard::Up && vitesse_y == 0)
-                    std::cout << "haut" << std::endl;
-                if (event.key.code == sf::Keyboard::A)
-                    std::cout << "bas" << std::endl;
-            }
-            else if (event.type == sf::Event::KeyReleased)
-            {
-                if (event.key.code == sf::Keyboard::Right) {
-                    isRightPressed = false;
-                    printf("Droite\n");
-                }
-                if (event.key.code == sf::Keyboard::Left) {
-                    isLeftPressed = false;
-                    std::cout << "Left released" << std::endl;
-                }
-            }
+        if (!y->P_1isRightPressed && !y->P_1isLeftPressed) {
+            if (y->P_1_vx < 1 && y->P_1_vx > -1 && y->P_1_vy == 0) {
+                y->P_1_vx = 0;
+            } else if (y->P_1_vx > 0) {
+                y->P_1_vx -= 5;
+            } else if (y->P_1_vx < 0)
+                y->P_1_vx += 5;
         }
 
-        if (!isRightPressed && !isLeftPressed) {
-            if (vitesse_x < 1 && vitesse_x > -1 && vitesse_y == 0) {
-                vitesse_x = 0;
-            } else if (vitesse_x > 0) {
-                vitesse_x -= 5;
-            } else if (vitesse_x < 0)
-                vitesse_x += 5;
-        }
-
-        y->spritePosition_n.y += vitesse_y;
-        if (y->spritePosition_n.y >= 900) {
-            y->spritePosition_n.y = 900;
-            vitesse_y = 0;
+        y->spritePosition_n.y += y->P_1_vy;
+        cond = cond_stop_chute(y);
+        // std::cout << cond << std::endl;
+        if (cond != 0) {
+            y->spritePosition_n.y = cond;
+            y->P_1_vy = 0;
         } else if (y->spritePosition_n.y < 900) {
-            vitesse_y += 1;
+            y->P_1_vy += 1;
         }
 
-        y->spritePosition_n.x += vitesse_x;
+        y->spritePosition_n.x += y->P_1_vx;
         y->sprite_n.setPosition(y->spritePosition_n);
 
         y->window.clear(sf::Color(128, 128, 128));
         y->window.draw(y->sprite_n);
+        for (int i = 0; i < y->builder.nb_bloc; i++) {
+            y->window.draw(y->builder.bloc[i].bloc_s);
+        }
         y->window.display();
     }
+    delete[] y->builder.bloc;
 }
 
 int main()
 {
-    std::cout << "START PROJET !" << std::endl;
-
     yin_yang_t *y = new yin_yang_t;
     initializeStruct(y);
 
     y->window.create(sf::VideoMode::getDesktopMode(), "JAM EPITECH 3");
+    y->window.setFramerateLimit(30);
     y->window.clear(sf::Color(128, 128, 128));
 
     init_page(y);

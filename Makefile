@@ -10,7 +10,7 @@ CPPFLAGS = -Wall -Wextra -I include
 SFMLFLAGS = -lsfml-graphics -lsfml-window -lsfml-system
 
 SRC = main.cpp \
-    $(wildcard src/*.cpp)	\
+    $(wildcard src/*.cpp) \
 	$(wildcard src/init/*.cpp)
 
 OBJ = $(SRC:.cpp=.o)
