@@ -52,7 +52,11 @@ void init_page(yin_yang_t *y)
         }
 
         if (cond_stop_droite(y) != 0) {
-            y->spritePosition_n.y -= y->P_1_vy * 3;
+            y->spritePosition_n.x -= 100;
+            y->P_1_vy = 0;
+        }
+        if (cond_stop_gauche(y) != 0) {
+            y->spritePosition_n.x += 100;
             y->P_1_vy = 0;
         }
 
