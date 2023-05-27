@@ -1,3 +1,10 @@
+/*
+** EPITECH PROJECT, 2023
+** main
+** File description:
+** Balance of harmony
+*/
+
 #include "jam.hpp"
 
 void init_page(yin_yang_t *y)
@@ -53,7 +60,7 @@ void init_page(yin_yang_t *y)
             {
                 if (event.key.code == sf::Keyboard::Right) {
                     isRightPressed = false;
-                    std::cout << "Right released" << std::endl;
+                    printf("Droite\n");
                 }
                 if (event.key.code == sf::Keyboard::Left) {
                     isLeftPressed = false;
@@ -92,11 +99,15 @@ int main()
 {
     std::cout << "START PROJET !" << std::endl;
 
-    yin_yang_t y;
-    y.window.create(sf::VideoMode::getDesktopMode(), "JAM EPITECH 3");
-    y.window.clear(sf::Color(128, 128, 128));
+    yin_yang_t *y = new yin_yang_t;
+    initializeStruct(y);
 
-    init_page(&y);
+    y->window.create(sf::VideoMode::getDesktopMode(), "JAM EPITECH 3");
+    y->window.clear(sf::Color(128, 128, 128));
 
+    init_page(y);
+    y->m->player = y->spritePosition_n;
+    delete(y->m);
+    delete y;
     return 0;
 }
