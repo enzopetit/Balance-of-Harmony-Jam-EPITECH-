@@ -5613,3 +5613,653 @@ Script Stack (0 frames):
 [2023.05.27-15.09.19:701][926]AssetCheck: New page: Asset Save: BP_WeaponMaster
 [2023.05.27-15.09.19:701][926]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
 [2023.05.27-15.10.33:633][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.05.27-15.10.58:194][640]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-15.10.58:194][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.10.58:312][640]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.27-15.10.58:313][640]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-15.10.58:313][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.10.58:434][640]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-15.10.58:434][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.10.58:499][640]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-15.10.58:499][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.10.58:574][640]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.27-15.10.58:574][640]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-15.10.58:575][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.10.58:679][640]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.27-15.10.58:679][640]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-15.10.58:679][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.11.04:250][ 56]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-15.11.04:330][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.05.27-15.11.05:204][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.11.05:237][127]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterAF6C49274D71F68485A82BAA750BB79D.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.11.05:252][127]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.11.05:252][127]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.11.13:868][ 50]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-15.11.13:937][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.05.27-15.11.14:399][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.11.14:433][ 79]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterFA3CAB2A4B4F492636924AA0DF19BBCD.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.11.14:451][ 79]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.11.14:452][ 79]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.13.44:462][610]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-15.13.44:542][610]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2023.05.27-15.13.45:095][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.13.45:144][646]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterA54C40464DBCEC6144D76B9912192832.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.13.45:158][646]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.13.45:158][646]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.15.34:178][720]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-15.15.34:257][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2023.05.27-15.15.35:331][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.15.35:400][761]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterE10225DF4DA696CF588E30B7E32FAAD9.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.15.35:421][761]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.15.35:421][761]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.18.02:300][ 66]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-15.18.02:383][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.05.27-15.18.02:912][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.18.02:964][ 93]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterA2BB23B145F80950DA23548652594323.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.18.02:980][ 93]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.18.02:980][ 93]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.18.27:660][934]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-15.18.27:739][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.05.27-15.18.28:337][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.18.28:388][969]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterC73745104D548C2D5C429289DA6E8F95.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.18.28:405][969]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.18.28:405][969]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.19.53:934][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.05.27-15.19.53:935][398]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.026
+[2023.05.27-15.19.53:936][398]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Core/Weapons/BP_WeaponMaster] ([2] browsable assets)...
+[2023.05.27-15.19.53:950][398]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster]
+[2023.05.27-15.19.53:950][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Weapons/BP_WeaponMaster]
+[2023.05.27-15.19.53:950][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Saved/Autosaves/Game/Core/Weapons/BP_WeaponMaster_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2023.05.27-15.19.54:007][398]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMaster_Auto6669AE9314FB4304FF6B931B6B8795660.tmp' to 'H:/Jam-epitech-3/Saved/Autosaves/Game/Core/Weapons/BP_WeaponMaster_Auto6.uasset'
+[2023.05.27-15.19.54:008][398]LogFileHelpers: Auto-saving content packages took 0.072
+[2023.05.27-15.20.31:760][230]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-15.20.31:838][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.05.27-15.20.32:378][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.20.32:436][261]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterEEF601A84DCECDBAB97549971D7ACEAD.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.20.32:452][261]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.20.32:452][261]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.20.48:058][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.20.48:153][548]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMaster2F3B79084ADC691B6804E8B2B5F358A8.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.20.48:177][548]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.20.48:177][548]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.21.02:392][193]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.27-15.21.02:402][193]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.27-15.21.02:417][193]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.27-15.21.04:757][426]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Bullets
+[2023.05.27-15.21.04:874][426]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.27-15.21.05:797][508]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Weapons/Datas/BP_Bullets.BP_Bullets
+[2023.05.27-15.21.09:390][554]LogSlate: Window 'BP_Bullets' being destroyed
+[2023.05.27-15.23.39:910][440]BlueprintLog: New page: Compile BP_Bullets
+[2023.05.27-15.23.39:961][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2023.05.27-15.23.40:499][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/Datas/BP_Bullets" FILE="H:/Jam-epitech-3/Content/Core/Weapons/Datas/BP_Bullets.uasset" SILENT=true
+[2023.05.27-15.23.40:504][477]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_BulletsEA13BCA344E10AB328CF5B95C04FE7E1.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/Datas/BP_Bullets.uasset'
+[2023.05.27-15.23.40:799][477]AssetCheck: New page: Asset Save: BP_Bullets
+[2023.05.27-15.23.40:799][477]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/Datas/BP_Bullets.BP_Bullets
+[2023.05.27-15.23.57:432][187]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles' is outside repository at 'H:/Jam-epitech-3'
+[2023.05.27-15.23.57:432][187]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMeshes: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMeshes' is outside repository at 'H:/Jam-epitech-3'
+[2023.05.27-15.24.15:734][756]BlueprintLog: New page: Compile BP_Bullets
+[2023.05.27-15.24.15:816][756]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2023.05.27-15.24.16:400][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/Datas/BP_Bullets" FILE="H:/Jam-epitech-3/Content/Core/Weapons/Datas/BP_Bullets.uasset" SILENT=true
+[2023.05.27-15.24.16:410][788]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_Bullets4DA35338425921B2ED6051908EF4815B.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/Datas/BP_Bullets.uasset'
+[2023.05.27-15.24.16:432][788]AssetCheck: New page: Asset Save: BP_Bullets
+[2023.05.27-15.24.16:432][788]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/Datas/BP_Bullets.BP_Bullets
+[2023.05.27-15.24.21:593][297]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.05.27-15.24.21:616][297]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.05.27-15.24.28:346][889]LogContentBrowser: Attempting asset rename: NewMaterial -> Glow
+[2023.05.27-15.24.28:472][889]LogContentBrowser: End creating deferred item NewMaterial
+[2023.05.27-15.24.29:341][949]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Core/Weapons/Datas/Glow.Glow
+[2023.05.27-15.24.29:343][949]LogMaterial: Display: Missing cached shadermap for Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 2251B38D360D38585CCA4FF01D6DF54581E4B25C), compiling. 
+[2023.05.27-15.24.29:373][949]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.05.27-15.24.29:567][949]LogMaterial: Display: Missing cached shadermap for Glow in PCD3D_SM5, Default, SM5 (DDC key hash: A4E612CFEEF7FBD49560651250EC62B39C760FCA), compiling. 
+[2023.05.27-15.24.29:569][949]LogMaterial: Display: Missing cached shadermap for Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 4378AA83CA1D747770E58E9304DC899DD6436C1B), compiling. 
+[2023.05.27-15.24.29:580][949]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.27-15.24.29:679][950]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.27-15.24.29:679][950]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.27-15.24.29:679][950]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.27-15.24.29:679][950]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.27-15.24.29:679][950]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.05.27-15.24.29:679][950]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2023.05.27-15.24.29:679][950]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2023.05.27-15.24.29:679][950]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-15.24.31:101][ 59]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2023.05.27-15.24.31:101][ 59]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-15.24.31:104][ 59]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.27-15.24.31:104][ 59]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2023.05.27-15.24.31:104][ 59]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.05.27-15.24.31:104][ 59]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.05.27-15.24.31:104][ 59]LogShaderCompilers: Display: ================================================
+[2023.05.27-15.24.31:295][ 75]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2023.05.27-15.24.31:295][ 75]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-15.24.31:313][ 76]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.27-15.24.32:963][221]LogMaterial: Display: Missing cached shadermap for Glow in PCD3D_SM5, Default, SM5 (DDC key hash: A254873024097C1FF953CF90826B6BE24FD8A482), compiling. 
+[2023.05.27-15.24.32:966][221]LogMaterial: Display: Missing cached shadermap for Glow in PCD3D_SM5, Default, SM5 (DDC key hash: D9D4DE8F662684481D4AB04A39371A4F0E31659E), compiling. 
+[2023.05.27-15.24.32:970][221]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.27-15.24.33:008][223]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.05.27-15.24.33:008][223]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.05.27-15.24.33:008][223]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.27-15.24.33:008][223]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.27-15.24.36:016][576]LogMaterial: Display: Missing cached shadermap for Glow in PCD3D_SM5, Default, SM5 (DDC key hash: C14B0FEF2EC5C613F9422803DF8A99F147FFD952), compiling. 
+[2023.05.27-15.24.36:017][576]LogMaterial: Display: Missing cached shadermap for Glow in PCD3D_SM5, Default, SM5 (DDC key hash: CD943FAE1C009FB8FA38066E7DC1DD00A94EC7AA), compiling. 
+[2023.05.27-15.24.36:019][576]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.27-15.24.36:029][577]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.27-15.24.36:038][578]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.05.27-15.24.36:039][578]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.27-15.24.36:039][578]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.27-15.24.36:039][578]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2023.05.27-15.24.36:039][578]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2023.05.27-15.24.36:039][578]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-15.24.36:039][578]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.27-15.24.36:701][630]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2023.05.27-15.24.36:702][630]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-15.24.36:907][647]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2023.05.27-15.24.36:907][647]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-15.24.36:922][648]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.27-15.24.37:560][694]LogMaterialEditor: Saving and Compiling material Glow
+[2023.05.27-15.24.37:988][694]LogMaterial: Display: Missing cached shadermap for Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 77158488C8E68B093D1854C11C51DDCD753FA2D0), compiling. 
+[2023.05.27-15.24.38:022][694]LogMaterial: Display: Missing cached shadermap for Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 51B06C3BF9B7EDB75BDBFA0BB96E0FC5A3A672B1), compiling. 
+[2023.05.27-15.24.38:090][694]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2023.05.27-15.24.38:097][694]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.05.27-15.24.38:335][694]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2023.05.27-15.24.38:335][694]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.27-15.24.38:335][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.05.27-15.24.38:523][694]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.05.27-15.24.38:525][694]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2023.05.27-15.24.38:525][694]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2023.05.27-15.24.38:525][694]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2023.05.27-15.24.38:525][694]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.05.27-15.24.38:556][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/Datas/Glow" FILE="H:/Jam-epitech-3/Content/Core/Weapons/Datas/Glow.uasset" SILENT=true
+[2023.05.27-15.24.38:563][694]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/GlowA19808D849EB587F7C2BF9A1844C5F62.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/Datas/Glow.uasset'
+[2023.05.27-15.24.38:868][694]AssetCheck: New page: Asset Save: Glow
+[2023.05.27-15.24.38:868][694]LogContentValidation: Display: Validating Material /Game/Core/Weapons/Datas/Glow.Glow
+[2023.05.27-15.24.39:475][745]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-15.24.39:475][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.24.42:801][  9]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorLandscapeResources' is outside repository at 'H:/Jam-epitech-3'
+[2023.05.27-15.24.42:802][  9]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/Cross_Mat.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EditorMaterials/Cross_Mat.uasset' is outside repository at 'H:/Jam-epitech-3'
+[2023.05.27-15.24.42:802][  9]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/CubeMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/EngineMaterials/CubeMaterial.uasset' is outside repository at 'H:/Jam-epitech-3'
+[2023.05.27-15.24.42:802][  9]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/BufferVisualization: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/BufferVisualization' is outside repository at 'H:/Jam-epitech-3'
+[2023.05.27-15.24.46:293][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/Datas/BP_Bullets" FILE="H:/Jam-epitech-3/Content/Core/Weapons/Datas/BP_Bullets.uasset" SILENT=true
+[2023.05.27-15.24.46:298][326]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_Bullets070D16AE48922CD14BAA3CB1D91840A7.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/Datas/BP_Bullets.uasset'
+[2023.05.27-15.24.46:313][326]AssetCheck: New page: Asset Save: BP_Bullets
+[2023.05.27-15.24.46:313][326]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/Datas/BP_Bullets.BP_Bullets
+[2023.05.27-15.25.05:819][221]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.05.27-15.25.05:841][221]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.27-15.28.07:263][236]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-15.28.07:365][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2023.05.27-15.28.07:962][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.28.08:034][274]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMaster975124FF405259D84EB7C793D4CA2A9C.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.28.08:054][274]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.28.08:054][274]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.28.23:898][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.28.24:019][557]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterF17F8BA9438955DFBE2A35B34EBF0FD0.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.28.24:050][557]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.28.24:050][557]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.28.58:209][478]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-15.28.58:307][478]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2023.05.27-15.28.58:897][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.28.58:958][517]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterD1F220C14737AD5AA307558DB4F0762F.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.28.58:978][517]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.28.58:979][517]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.29.05:611][260]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-15.29.05:710][260]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2023.05.27-15.29.06:159][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.29.06:220][282]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterD5A38940424A81CBC9EAFFAFE1409775.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.29.06:238][282]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.29.06:238][282]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.29.50:025][484]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-15.29.50:128][484]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2023.05.27-15.29.50:739][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.29.50:816][523]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMaster03C8D1254DDD283757770AB9894AD1F5.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.29.50:835][523]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.29.50:835][523]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.30.00:459][833]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/PlayerCharacter/FPS_Character.FPS_Character
+[2023.05.27-15.30.55:026][359]BlueprintLog: New page: Compile FPS_Character
+[2023.05.27-15.30.55:145][359]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2023.05.27-15.30.55:708][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/PlayerCharacter/FPS_Character" FILE="H:/Jam-epitech-3/Content/Core/PlayerCharacter/FPS_Character.uasset" SILENT=true
+[2023.05.27-15.30.55:762][395]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/FPS_CharacterE3D29448440BCC93D5711CA1A2CF78F5.tmp' to 'H:/Jam-epitech-3/Content/Core/PlayerCharacter/FPS_Character.uasset'
+[2023.05.27-15.30.55:780][395]AssetCheck: New page: Asset Save: FPS_Character
+[2023.05.27-15.30.55:780][395]LogContentValidation: Display: Validating Blueprint /Game/Core/PlayerCharacter/FPS_Character.FPS_Character
+[2023.05.27-15.31.01:540][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Weapons/BPC_M9.BPC_M9
+[2023.05.27-15.31.37:381][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset' is outside repository at 'H:/Jam-epitech-3'
+[2023.05.27-15.31.37:381][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset' is outside repository at 'H:/Jam-epitech-3'
+[2023.05.27-15.31.40:540][135]LogTexture: Display: Building textures: ThumbnailTexture (OODLE_DXT1, 512X512)
+[2023.05.27-15.31.40:540][135]LogTexture: Display: Building textures: TEX_FX_Smoke_Anim_COL (OODLE_AutoDXT, 512X512)
+[2023.05.27-15.31.40:540][135]LogTexture: Display: Building textures: TEX_frontFlashes_COL (OODLE_AutoDXT, 2048X1024)
+[2023.05.27-15.31.40:541][135]LogTexture: Display: Building textures: TEX_pistolMuzzleFlashSide01_COL (OODLE_AutoDXT, 2048X2048)
+[2023.05.27-15.31.40:541][135]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.27-15.31.40:541][135]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.27-15.31.40:541][135]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.27-15.31.40:541][135]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.27-15.31.40:541][135]LogMaterial: Display: Missing cached shadermap for Mat_FxMAT_M9MuzFlashFront in PCD3D_SM5, Default, SM5 (DDC key hash: 31918F17A7160BD0379D4D8C0289BE15ABEA2458), compiling. 
+[2023.05.27-15.31.40:586][135]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.05.27-15.31.40:587][135]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2023.05.27-15.31.40:587][135]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2023.05.27-15.31.40:587][135]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2023.05.27-15.31.40:587][135]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2023.05.27-15.31.40:587][135]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-15.31.40:587][135]LogMaterial: Display: Missing cached shadermap for Mat_FxMAT_Smoke02 in PCD3D_SM5, Default, SM5 (DDC key hash: 01190E6B17263FD0A62C0475F8E57628EA5E539A), compiling. 
+[2023.05.27-15.31.40:624][135]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.05.27-15.31.40:627][135]LogMaterial: Display: Missing cached shadermap for Mat_FxMAT_M9FlashSide in PCD3D_SM5, Default, SM5 (DDC key hash: 4EF9B50662F2DA94B4B3A58EA05C54ED3D3A31CE), compiling. 
+[2023.05.27-15.31.40:674][135]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.05.27-15.31.46:247][425]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2023.05.27-15.31.46:247][425]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-15.31.46:257][425]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2023.05.27-15.31.46:257][425]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-15.31.46:258][425]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.27-15.31.46:258][425]LogShaderCompilers: Display: Total job queries 194, among them cache hits 26 (13.40%)
+[2023.05.27-15.31.46:258][425]LogShaderCompilers: Display: Tracking 46 distinct input hashes that result in 36 distinct outputs (78.26%)
+[2023.05.27-15.31.46:258][425]LogShaderCompilers: Display: RAM used: 0.20 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.05.27-15.31.46:258][425]LogShaderCompilers: Display: ================================================
+[2023.05.27-15.31.46:283][426]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2023.05.27-15.31.46:283][426]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-15.31.46:615][445]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2023.05.27-15.31.46:615][445]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-15.31.51:441][714]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2023.05.27-15.31.51:442][714]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-15.31.51:488][716]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2023.05.27-15.31.51:488][716]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-15.31.51:721][730]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2023.05.27-15.31.51:721][730]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-15.31.51:780][733]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2023.05.27-15.31.51:780][733]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-15.31.54:034][861]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2023.05.27-15.31.54:034][861]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-15.31.55:334][935]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2023.05.27-15.31.55:335][935]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-15.31.55:380][937]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2023.05.27-15.31.55:380][937]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-15.31.55:859][964]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2023.05.27-15.31.55:859][964]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-15.31.56:627][  8]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2023.05.27-15.31.56:627][  8]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-15.31.56:741][ 15]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.27-15.31.56:741][ 15]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-15.31.56:968][ 27]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.27-15.31.56:969][ 27]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.05.27-15.32.04:397][696]BlueprintLog: New page: Compile BPC_M9
+[2023.05.27-15.32.04:476][696]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2023.05.27-15.32.05:124][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BPC_M9" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9.uasset" SILENT=true
+[2023.05.27-15.32.05:136][738]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BPC_M99E919825496E4724DCBBC29962E75942.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9.uasset'
+[2023.05.27-15.32.05:159][738]AssetCheck: New page: Asset Save: BPC_M9
+[2023.05.27-15.32.05:159][738]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BPC_M9.BPC_M9
+[2023.05.27-15.32.12:109][ 86]BlueprintLog: New page: Compile BPC_M9
+[2023.05.27-15.32.12:185][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.05.27-15.32.12:756][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BPC_M9" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9.uasset" SILENT=true
+[2023.05.27-15.32.12:767][119]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BPC_M9565A661D445750DEC3F32C936E88961B.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BPC_M9.uasset'
+[2023.05.27-15.32.12:797][119]AssetCheck: New page: Asset Save: BPC_M9
+[2023.05.27-15.32.12:797][119]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BPC_M9.BPC_M9
+[2023.05.27-15.32.19:116][251]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.27-15.32.19:133][251]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.27-15.32.19:134][251]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2023.05.27-15.32.19:179][251]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2023.05.27-15.32.19:180][251]LogPlayLevel: PlayLevel: Blueprint regeneration took 46 ms (1 blueprints)
+[2023.05.27-15.32.19:180][251]PIE: New page: PIE session: FirstPersonExampleMap (27 mai 2023 à 19:32:19)
+[2023.05.27-15.32.19:180][251]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-15.32.19:191][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011460s)
+[2023.05.27-15.32.19:193][251]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.27-15.32.19:193][251]LogPlayLevel: PIE: World Init took: (0.001533s)
+[2023.05.27-15.32.19:193][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013170s)
+[2023.05.27-15.32.19:237][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.05.27-15.32.19:238][251]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2023.05.27-15.32.19:238][251]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.27-15.32.19:238][251]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.27-15.32.19:239][251]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.27-15.32.19:239][251]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.27-15.32.19:239][251]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.27-15.32.19:239][251]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.27-15.32.19:239][251]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.27-15.32.19:239][251]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.27-15.32.19:239][251]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.27-15.32.19:239][251]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.27-15.32.19:239][251]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.27-15.32.19:239][251]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.27-15.32.19:249][251]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.27-15.32.19:249][251]LogAudioMixer: Display: 1: FrontRight
+[2023.05.27-15.32.19:269][251]LogAudioMixer: Display: Using Audio Device Haut-parleurs (HyperX Cloud Alpha S Game)
+[2023.05.27-15.32.19:269][251]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.27-15.32.19:269][251]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.27-15.32.19:269][251]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.27-15.32.19:270][251]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.27-15.32.19:270][251]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.27-15.32.19:270][251]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.27-15.32.19:271][251]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.27-15.32.19:271][251]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.27-15.32.19:271][251]LogInit: FAudioDevice initialized.
+[2023.05.27-15.32.19:271][251]LogAudio: Display: Audio Device (ID: 62) registered with world 'FirstPersonExampleMap'.
+[2023.05.27-15.32.19:300][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-15.32.19:300][251]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.27-15.32.19:303][251]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.27-17.32.19
+[2023.05.27-15.32.19:303][251]LogGameMode: Warning: No GameStateClass was specified in FirstPersonGameMode_C_0 (FirstPersonGameMode_C)
+[2023.05.27-15.32.19:304][251]LogWorld: Bringing up level for play took: 0.002902
+[2023.05.27-15.32.19:304][251]LogOnline: OSS: Creating online subsystem instance for: :Context_128
+[2023.05.27-15.32.19:307][251]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.27-15.32.19:309][251]PIE: Server logged in
+[2023.05.27-15.32.19:310][251]PIE: Play in editor total start time 0,19 seconds.
+[2023.05.27-15.32.24:471][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-15.32.24:471][717]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-15.32.24:473][717]LogSlate: Window 'JAM_03 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.27-15.32.24:481][717]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-15.32.24:482][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.32.24:489][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.27-15.32.24:507][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.32.24:544][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-15.32.24:545][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-15.32.24:553][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.05.27-15.32.24:574][718]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2023.05.27-15.32.27:350][769]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.27-15.32.27:372][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.27-15.32.27:372][769]PIE: New page: PIE session: FirstPersonExampleMap (27 mai 2023 à 19:32:27)
+[2023.05.27-15.32.27:372][769]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-15.32.27:387][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014930s)
+[2023.05.27-15.32.27:388][769]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.27-15.32.27:388][769]LogPlayLevel: PIE: World Init took: (0.001495s)
+[2023.05.27-15.32.27:389][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016651s)
+[2023.05.27-15.32.27:432][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2023.05.27-15.32.27:433][769]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2023.05.27-15.32.27:433][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.27-15.32.27:433][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.27-15.32.27:433][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.27-15.32.27:433][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.27-15.32.27:433][769]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.27-15.32.27:433][769]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.27-15.32.27:433][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.27-15.32.27:433][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.27-15.32.27:434][769]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.27-15.32.27:434][769]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.27-15.32.27:434][769]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.27-15.32.27:434][769]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.27-15.32.27:443][769]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.27-15.32.27:443][769]LogAudioMixer: Display: 1: FrontRight
+[2023.05.27-15.32.27:460][769]LogAudioMixer: Display: Using Audio Device Haut-parleurs (HyperX Cloud Alpha S Game)
+[2023.05.27-15.32.27:460][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.27-15.32.27:460][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.27-15.32.27:460][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.27-15.32.27:460][769]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.27-15.32.27:461][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.27-15.32.27:461][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.27-15.32.27:462][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.27-15.32.27:462][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.27-15.32.27:462][769]LogInit: FAudioDevice initialized.
+[2023.05.27-15.32.27:462][769]LogAudio: Display: Audio Device (ID: 63) registered with world 'FirstPersonExampleMap'.
+[2023.05.27-15.32.27:489][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-15.32.27:490][769]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.27-15.32.27:493][769]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.27-17.32.27
+[2023.05.27-15.32.27:493][769]LogGameMode: Warning: No GameStateClass was specified in FirstPersonGameMode_C_0 (FirstPersonGameMode_C)
+[2023.05.27-15.32.27:494][769]LogWorld: Bringing up level for play took: 0.003051
+[2023.05.27-15.32.27:494][769]LogOnline: OSS: Creating online subsystem instance for: :Context_129
+[2023.05.27-15.32.27:497][769]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.27-15.32.27:500][769]PIE: Server logged in
+[2023.05.27-15.32.27:501][769]PIE: Play in editor total start time 0,143 seconds.
+[2023.05.27-15.32.37:221][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-15.32.37:221][551]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-15.32.37:223][551]LogSlate: Window 'JAM_03 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.27-15.32.37:234][551]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-15.32.37:235][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.32.37:243][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.27-15.32.37:262][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.32.37:300][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-15.32.37:301][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-15.32.37:309][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.05.27-15.32.37:330][552]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2023.05.27-15.33.04:525][170]BlueprintLog: New page: Compile BP_Bullets
+[2023.05.27-15.33.04:596][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2023.05.27-15.33.05:121][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/Datas/BP_Bullets" FILE="H:/Jam-epitech-3/Content/Core/Weapons/Datas/BP_Bullets.uasset" SILENT=true
+[2023.05.27-15.33.05:130][199]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_BulletsB24644BF447B2F089D48EF842973A464.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/Datas/BP_Bullets.uasset'
+[2023.05.27-15.33.05:148][199]AssetCheck: New page: Asset Save: BP_Bullets
+[2023.05.27-15.33.05:148][199]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/Datas/BP_Bullets.BP_Bullets
+[2023.05.27-15.33.06:109][267]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.27-15.33.06:128][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.27-15.33.06:128][267]PIE: New page: PIE session: FirstPersonExampleMap (27 mai 2023 à 19:33:06)
+[2023.05.27-15.33.06:128][267]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-15.33.06:142][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013883s)
+[2023.05.27-15.33.06:143][267]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.27-15.33.06:143][267]LogPlayLevel: PIE: World Init took: (0.001366s)
+[2023.05.27-15.33.06:143][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015418s)
+[2023.05.27-15.33.06:188][267]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2023.05.27-15.33.06:190][267]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2023.05.27-15.33.06:190][267]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.27-15.33.06:190][267]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.27-15.33.06:190][267]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.27-15.33.06:190][267]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.27-15.33.06:190][267]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.27-15.33.06:190][267]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.27-15.33.06:190][267]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.27-15.33.06:190][267]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.27-15.33.06:191][267]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.27-15.33.06:191][267]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.27-15.33.06:191][267]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.27-15.33.06:191][267]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.27-15.33.06:200][267]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.27-15.33.06:200][267]LogAudioMixer: Display: 1: FrontRight
+[2023.05.27-15.33.06:215][267]LogAudioMixer: Display: Using Audio Device Haut-parleurs (HyperX Cloud Alpha S Game)
+[2023.05.27-15.33.06:216][267]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.27-15.33.06:216][267]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.27-15.33.06:216][267]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.27-15.33.06:216][267]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.27-15.33.06:216][267]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.27-15.33.06:216][267]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.27-15.33.06:218][267]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.27-15.33.06:218][267]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.27-15.33.06:218][267]LogInit: FAudioDevice initialized.
+[2023.05.27-15.33.06:218][267]LogAudio: Display: Audio Device (ID: 64) registered with world 'FirstPersonExampleMap'.
+[2023.05.27-15.33.06:236][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-15.33.06:236][267]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.27-15.33.06:239][267]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.27-17.33.06
+[2023.05.27-15.33.06:239][267]LogGameMode: Warning: No GameStateClass was specified in FirstPersonGameMode_C_0 (FirstPersonGameMode_C)
+[2023.05.27-15.33.06:239][267]LogWorld: Bringing up level for play took: 0.002174
+[2023.05.27-15.33.06:239][267]LogOnline: OSS: Creating online subsystem instance for: :Context_130
+[2023.05.27-15.33.06:242][267]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.27-15.33.06:245][267]PIE: Server logged in
+[2023.05.27-15.33.06:247][267]PIE: Play in editor total start time 0,134 seconds.
+[2023.05.27-15.33.12:732][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-15.33.12:732][833]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-15.33.12:733][833]LogSlate: Window 'JAM_03 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.27-15.33.12:742][833]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-15.33.12:743][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.33.12:756][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.27-15.33.12:775][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.33.12:810][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-15.33.12:811][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-15.33.12:820][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.05.27-15.33.12:866][834]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2023.05.27-15.33.22:207][386]BlueprintLog: New page: Compile BP_Bullets
+[2023.05.27-15.33.22:271][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.05.27-15.33.22:737][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/Datas/BP_Bullets" FILE="H:/Jam-epitech-3/Content/Core/Weapons/Datas/BP_Bullets.uasset" SILENT=true
+[2023.05.27-15.33.22:746][415]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_BulletsCED1A56D4A2E11414B004B860E9D5260.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/Datas/BP_Bullets.uasset'
+[2023.05.27-15.33.22:762][415]AssetCheck: New page: Asset Save: BP_Bullets
+[2023.05.27-15.33.22:762][415]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/Datas/BP_Bullets.BP_Bullets
+[2023.05.27-15.33.25:980][572]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.27-15.33.25:999][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.27-15.33.25:999][572]PIE: New page: PIE session: FirstPersonExampleMap (27 mai 2023 à 19:33:25)
+[2023.05.27-15.33.25:999][572]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-15.33.26:015][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015465s)
+[2023.05.27-15.33.26:016][572]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.27-15.33.26:017][572]LogPlayLevel: PIE: World Init took: (0.001870s)
+[2023.05.27-15.33.26:017][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017617s)
+[2023.05.27-15.33.26:069][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2023.05.27-15.33.26:071][572]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2023.05.27-15.33.26:071][572]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.27-15.33.26:071][572]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.27-15.33.26:071][572]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.27-15.33.26:071][572]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.27-15.33.26:071][572]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.27-15.33.26:071][572]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.27-15.33.26:071][572]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.27-15.33.26:071][572]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.27-15.33.26:071][572]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.27-15.33.26:071][572]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.27-15.33.26:071][572]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.27-15.33.26:071][572]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.27-15.33.26:080][572]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.27-15.33.26:080][572]LogAudioMixer: Display: 1: FrontRight
+[2023.05.27-15.33.26:095][572]LogAudioMixer: Display: Using Audio Device Haut-parleurs (HyperX Cloud Alpha S Game)
+[2023.05.27-15.33.26:096][572]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.27-15.33.26:096][572]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.27-15.33.26:096][572]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.27-15.33.26:096][572]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.27-15.33.26:096][572]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.27-15.33.26:096][572]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.27-15.33.26:097][572]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.27-15.33.26:097][572]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.27-15.33.26:097][572]LogInit: FAudioDevice initialized.
+[2023.05.27-15.33.26:097][572]LogAudio: Display: Audio Device (ID: 65) registered with world 'FirstPersonExampleMap'.
+[2023.05.27-15.33.26:120][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-15.33.26:120][572]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.27-15.33.26:123][572]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.27-17.33.26
+[2023.05.27-15.33.26:124][572]LogGameMode: Warning: No GameStateClass was specified in FirstPersonGameMode_C_0 (FirstPersonGameMode_C)
+[2023.05.27-15.33.26:124][572]LogWorld: Bringing up level for play took: 0.002537
+[2023.05.27-15.33.26:124][572]LogOnline: OSS: Creating online subsystem instance for: :Context_131
+[2023.05.27-15.33.26:127][572]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.27-15.33.26:130][572]PIE: Server logged in
+[2023.05.27-15.33.26:131][572]PIE: Play in editor total start time 0,146 seconds.
+[2023.05.27-15.33.42:953][ 64]LogBlueprintUserMessages: [BPC_M9_C_0] Out of ammos
+[2023.05.27-15.33.43:112][ 79]LogBlueprintUserMessages: [BPC_M9_C_0] Out of ammos
+[2023.05.27-15.33.43:276][ 94]LogBlueprintUserMessages: [BPC_M9_C_0] Out of ammos
+[2023.05.27-15.33.43:410][107]LogBlueprintUserMessages: [BPC_M9_C_0] Out of ammos
+[2023.05.27-15.33.43:579][123]LogBlueprintUserMessages: [BPC_M9_C_0] Out of ammos
+[2023.05.27-15.33.43:899][153]LogBlueprintUserMessages: [BPC_M9_C_0] Out of ammos
+[2023.05.27-15.33.44:790][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-15.33.44:790][231]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-15.33.44:792][231]LogSlate: Window 'JAM_03 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.27-15.33.44:798][231]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-15.33.44:799][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.33.44:808][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.27-15.33.44:827][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.33.44:865][231]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.27-15.33.44:865][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-15.33.44:867][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-15.33.44:876][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.05.27-15.33.44:893][232]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2023.05.27-15.35.22:072][622]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-15.35.22:249][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2023.05.27-15.35.22:681][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.35.22:743][640]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMaster123C7F534CE09E4D23DC29B0238BFE69.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.35.22:758][640]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.35.22:759][640]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.35.32:928][809]LogEditorTransaction: Undo Create Pin Link
+[2023.05.27-15.35.33:401][825]LogEditorTransaction: Undo Delete current selection
+[2023.05.27-15.35.33:781][854]LogEditorTransaction: Undo Delete current selection
+[2023.05.27-15.35.35:331][996]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-15.35.35:444][996]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2023.05.27-15.35.35:874][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.35.35:939][ 13]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMaster8EF097D64BCE3FE3A0C23D97F361507E.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.35.35:958][ 13]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.35.35:958][ 13]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.36.02:255][793]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.05.27-15.36.02:373][793]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2023.05.27-15.36.02:894][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Weapons/BP_WeaponMaster" FILE="H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.05.27-15.36.02:962][817]LogSavePackage: Moving 'H:/Jam-epitech-3/Saved/BP_WeaponMasterA25E7C494DCEA7DC9B7BFEB5E3432794.tmp' to 'H:/Jam-epitech-3/Content/Core/Weapons/BP_WeaponMaster.uasset'
+[2023.05.27-15.36.02:980][817]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.05.27-15.36.02:980][817]LogContentValidation: Display: Validating Blueprint /Game/Core/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.05.27-15.36.03:290][844]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.27-15.36.03:307][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.27-15.36.03:307][844]PIE: New page: PIE session: FirstPersonExampleMap (27 mai 2023 à 19:36:03)
+[2023.05.27-15.36.03:308][844]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-15.36.03:320][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012238s)
+[2023.05.27-15.36.03:321][844]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.27-15.36.03:322][844]LogPlayLevel: PIE: World Init took: (0.001543s)
+[2023.05.27-15.36.03:322][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014017s)
+[2023.05.27-15.36.03:368][844]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2023.05.27-15.36.03:369][844]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2023.05.27-15.36.03:369][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.27-15.36.03:369][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.27-15.36.03:369][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.27-15.36.03:369][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.27-15.36.03:369][844]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.27-15.36.03:369][844]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.27-15.36.03:369][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.27-15.36.03:369][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.27-15.36.03:369][844]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.27-15.36.03:369][844]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.27-15.36.03:369][844]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.27-15.36.03:370][844]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.27-15.36.03:379][844]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.27-15.36.03:379][844]LogAudioMixer: Display: 1: FrontRight
+[2023.05.27-15.36.03:399][844]LogAudioMixer: Display: Using Audio Device Haut-parleurs (HyperX Cloud Alpha S Game)
+[2023.05.27-15.36.03:399][844]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.27-15.36.03:399][844]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.27-15.36.03:400][844]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.27-15.36.03:400][844]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.27-15.36.03:400][844]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.27-15.36.03:400][844]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.27-15.36.03:401][844]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.27-15.36.03:401][844]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.27-15.36.03:401][844]LogInit: FAudioDevice initialized.
+[2023.05.27-15.36.03:401][844]LogAudio: Display: Audio Device (ID: 66) registered with world 'FirstPersonExampleMap'.
+[2023.05.27-15.36.03:425][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-15.36.03:425][844]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.27-15.36.03:429][844]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.27-17.36.03
+[2023.05.27-15.36.03:429][844]LogGameMode: Warning: No GameStateClass was specified in FirstPersonGameMode_C_0 (FirstPersonGameMode_C)
+[2023.05.27-15.36.03:430][844]LogWorld: Bringing up level for play took: 0.003370
+[2023.05.27-15.36.03:430][844]LogOnline: OSS: Creating online subsystem instance for: :Context_132
+[2023.05.27-15.36.03:432][844]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.27-15.36.03:437][844]PIE: Server logged in
+[2023.05.27-15.36.03:441][844]PIE: Play in editor total start time 0,146 seconds.
+[2023.05.27-15.36.12:950][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-15.36.12:950][620]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-15.36.12:951][620]LogSlate: Window 'JAM_03 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.27-15.36.12:974][620]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-15.36.12:975][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.36.12:985][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.27-15.36.13:004][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.36.13:039][620]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.27-15.36.13:040][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-15.36.13:041][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-15.36.13:051][620]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.05.27-15.36.13:078][621]LogPlayLevel: Display: Destroying online subsystem :Context_132
+[2023.05.27-15.36.30:585][260]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2023.05.27-15.36.34:030][570]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.27-15.36.34:047][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.27-15.36.34:047][570]PIE: New page: PIE session: FirstPersonExampleMap (27 mai 2023 à 19:36:34)
+[2023.05.27-15.36.34:047][570]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-15.36.34:058][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010886s)
+[2023.05.27-15.36.34:059][570]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.27-15.36.34:060][570]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2023.05.27-15.36.34:060][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012403s)
+[2023.05.27-15.36.34:095][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.05.27-15.36.34:097][570]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2023.05.27-15.36.34:097][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.27-15.36.34:097][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.27-15.36.34:097][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.27-15.36.34:097][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.27-15.36.34:097][570]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.27-15.36.34:097][570]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.27-15.36.34:097][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.27-15.36.34:097][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.27-15.36.34:098][570]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.27-15.36.34:098][570]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.27-15.36.34:098][570]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.27-15.36.34:098][570]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.27-15.36.34:106][570]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.27-15.36.34:106][570]LogAudioMixer: Display: 1: FrontRight
+[2023.05.27-15.36.34:120][570]LogAudioMixer: Display: Using Audio Device Haut-parleurs (HyperX Cloud Alpha S Game)
+[2023.05.27-15.36.34:120][570]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.27-15.36.34:120][570]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.27-15.36.34:120][570]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.27-15.36.34:121][570]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.27-15.36.34:121][570]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.27-15.36.34:121][570]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.27-15.36.34:122][570]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.27-15.36.34:122][570]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.27-15.36.34:122][570]LogInit: FAudioDevice initialized.
+[2023.05.27-15.36.34:122][570]LogAudio: Display: Audio Device (ID: 67) registered with world 'FirstPersonExampleMap'.
+[2023.05.27-15.36.34:146][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-15.36.34:146][570]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.27-15.36.34:148][570]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.27-17.36.34
+[2023.05.27-15.36.34:149][570]LogGameMode: Warning: No GameStateClass was specified in FirstPersonGameMode_C_0 (FirstPersonGameMode_C)
+[2023.05.27-15.36.34:149][570]LogWorld: Bringing up level for play took: 0.002176
+[2023.05.27-15.36.34:149][570]LogOnline: OSS: Creating online subsystem instance for: :Context_133
+[2023.05.27-15.36.34:151][570]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.27-15.36.34:155][570]PIE: Server logged in
+[2023.05.27-15.36.34:157][570]PIE: Play in editor total start time 0,122 seconds.
+[2023.05.27-15.36.36:649][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-15.36.36:649][818]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.27-15.36.36:650][818]LogSlate: Window 'JAM_03 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.27-15.36.36:658][818]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-15.36.36:659][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.36.36:668][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.27-15.36.36:687][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-15.36.36:722][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-15.36.36:723][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-15.36.36:731][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.05.27-15.36.36:772][819]LogPlayLevel: Display: Destroying online subsystem :Context_133
+[2023.05.27-15.36.37:954][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
