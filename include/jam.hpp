@@ -4,6 +4,9 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
 #include <chrono>
+#include <sstream>
+#include <fstream>
+#include <string>
 
 #define SUCCESS 0
 #define FAILURE 84
@@ -22,8 +25,8 @@ typedef struct map_s {
 typedef struct {
     float coor_x;
     float coor_y;
-    sf::Sprite bloc_s;
     sf::Texture bloc_t;
+    sf::Sprite bloc_s;
 } bloc_t;
 
 typedef struct {
@@ -31,6 +34,15 @@ typedef struct {
     int nb_bloc;
     bloc_t *bloc;
 } map_build_t;
+
+typedef struct {
+    int x;
+    int y;
+    bool is_noir;
+    bool is_take;
+    sf::Texture piece_t;
+    sf::Sprite piece_s;
+} piece_t;
 
 typedef struct yin_yang {
     float P_1_vx;
@@ -48,6 +60,13 @@ typedef struct yin_yang {
     bool stop_chute_b = false;
     int cond_n;
     int cond_b;
+
+    int nb_piece;
+    int spawn_nx;
+    int spawn_ny;
+    int spawn_bx;
+    int spawn_by;
+    piece_t *p;
 
     map_build_t builder;
 
@@ -84,5 +103,9 @@ int cond_stop_droite_2(yin_yang_t *y);
 int cond_stop_gauche_2(yin_yang_t *y);
 void update_sprite_n(yin_yang_t *y);
 void update_sprite_b(yin_yang_t *y);
+void update_game(yin_yang_t *y);
+void update_physique(yin_yang_t *y);
+void get_info(yin_yang_t *y, const char *filename);
+bool load_personnages_and_yin_yang(yin_yang_t *y, char const *info);
 
 #endif /* JAM_H_ */
