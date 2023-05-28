@@ -12,15 +12,26 @@ void load_personnages(yin_yang_t *y)
     y->spritePosition_n.y = 900;
     y->spritePosition_n.x = 1800;
     y->sprite_n.setPosition(y->spritePosition_n);
+
+    if (!y->texture_b.loadFromFile("assets/perso_blanc.png")) {
+        return;
+    }
+    y->sprite_b.setTexture(y->texture_b);
+    y->sprite_b.setTextureRect(sf::IntRect(0, 0, 17, 28));
+    y->sprite_b.setScale(2.0f, 2.0f);
+    y->spritePosition_b = y->sprite_b.getPosition();
+    y->spritePosition_b.y = 50;
+    y->spritePosition_b.x = 1800;
+    y->sprite_b.setPosition(y->spritePosition_b);
 }
 
 void init_page(yin_yang_t *y)
 {
-    bool stop_chute = false;
     load_personnages(y);
     make_map("map/map_1.txt", y);
     while (y->window.isOpen()) {
-        stop_chute = false;
+        y->stop_chute_n = false;
+        y->stop_chute_b = false;
         get_keyboard_event(y);
         if (!y->P_1isRightPressed && !y->P_1isLeftPressed) {
             if (y->P_1_vx < 1 && y->P_1_vx > -1 && y->P_1_vy == 0) {
@@ -30,45 +41,29 @@ void init_page(yin_yang_t *y)
             } else if (y->P_1_vx < 0)
                 y->P_1_vx += 5;
         }
-        y->spritePosition_n.y += y->P_1_vy;
-        if (!y->jump) {
-            y->cond = cond_stop_chute(y);
-            stop_chute = true;
-        } else
-            y->cond = 0;
-        if (y->cond != 0) {
-            y->spritePosition_n.y = y->cond;
-            y->P_1_vy = 0;
-        } else if (y->spritePosition_n.y < 2000) {
-            y->P_1_vy += 1;
+        if (!y->P_2isRightPressed && !y->P_2isLeftPressed) {
+            if (y->P_2_vx < 1 && y->P_2_vx > -1 && y->P_2_vy == 0) {
+                y->P_2_vx = 0;
+            } else if (y->P_2_vx > 0) {
+                y->P_2_vx -= 5;
+            } else if (y->P_2_vx < 0)
+                y->P_2_vx += 5;
         }
-        if (y->spritePosition_n.y >= 2000) {
-            y->lose = true;
+        if (collisions_p1(y) || collisions_p2(y))
             break;
-        }
-        if (cond_stop_saut(y) != 0 && !stop_chute) {
-            y->spritePosition_n.y += 30;
-            y->P_1_vy = 0;
-        }
-        if (y->P_1_vy >= 0) {
-            y->jump = false;
-        }
-
-        if (cond_stop_droite(y) != 0) {
-            y->spritePosition_n.x -= 150;
-            y->P_1_vy = 0;
-        }
-        if (cond_stop_gauche(y) != 0) {
-            y->spritePosition_n.x += 150;
-            y->P_1_vy = 0;
-        }
-
         y->spritePosition_n.x += y->P_1_vx;
         y->sprite_n.setPosition(y->spritePosition_n);
 
+        y->spritePosition_b.x += y->P_2_vx;
+        y->sprite_b.setPosition(y->spritePosition_b);
+
+        update_sprite_n(y);
+        update_sprite_b(y);
+
         y->window.clear(sf::Color(128, 128, 128));
         y->window.draw(y->sprite_n);
-        for (int i = 0; i < y->builder.nb_bloc; i++) {
+        y->window.draw(y->sprite_b);
+        for (int i = 0; i < y->builder.nb_bloc; i++) {  
             y->window.draw(y->builder.bloc[i].bloc_s);
         }
         y->window.display();

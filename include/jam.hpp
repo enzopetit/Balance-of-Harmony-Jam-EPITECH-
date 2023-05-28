@@ -42,8 +42,12 @@ typedef struct yin_yang {
     bool P_2isRightPressed = false;
     bool P_2isLeftPressed = false;
     bool lose = false;
-    bool jump = false;
-    int cond;
+    bool jump_n = false;
+    bool jump_b = false;
+    bool stop_chute_n = false;
+    bool stop_chute_b = false;
+    int cond_n;
+    int cond_b;
 
     map_build_t builder;
 
@@ -51,12 +55,16 @@ typedef struct yin_yang {
     sf::Sprite sprite_n;
     sf::Texture texture_n;
 
+    sf::Sprite sprite_b;
+    sf::Texture texture_b;
+
     sf::Sprite map_sprite;
     sf::Texture map_text;
     sf::Vector2f mapPosition;
 
     sf::RenderWindow window;
     sf::Vector2f spritePosition_n;
+    sf::Vector2f spritePosition_b;
 } yin_yang_t;
 
 constexpr std::chrono::microseconds FRAME_DURATION(16667);
@@ -68,5 +76,13 @@ int cond_stop_chute(yin_yang_t *y);
 int cond_stop_saut(yin_yang_t *y);
 int cond_stop_droite(yin_yang_t *y);
 int cond_stop_gauche(yin_yang_t *y);
+bool collisions_p1(yin_yang_t *y);
+bool collisions_p2(yin_yang_t *y);
+int cond_stop_chute_2(yin_yang_t *y);
+int cond_stop_saut_2(yin_yang_t *y);
+int cond_stop_droite_2(yin_yang_t *y);
+int cond_stop_gauche_2(yin_yang_t *y);
+void update_sprite_n(yin_yang_t *y);
+void update_sprite_b(yin_yang_t *y);
 
 #endif /* JAM_H_ */
