@@ -77,6 +77,8 @@ typedef struct yin_yang {
     sf::Sprite sprite_b;
     sf::Texture texture_b;
 
+    sf::Font font;
+    sf::Sprite hoppy;
     sf::Sprite map_sprite;
     sf::Texture map_text;
     sf::Vector2f mapPosition;
@@ -90,7 +92,6 @@ constexpr std::chrono::microseconds FRAME_DURATION(16667);
 
 void make_map(const char *map_name, yin_yang_t *y);
 void get_keyboard_event(yin_yang_t *y);
-int initializeStruct(yin_yang_t *y);
 int cond_stop_chute(yin_yang_t *y);
 int cond_stop_saut(yin_yang_t *y);
 int cond_stop_droite(yin_yang_t *y);
@@ -107,5 +108,8 @@ void update_game(yin_yang_t *y);
 void update_physique(yin_yang_t *y);
 void get_info(yin_yang_t *y, const char *filename);
 bool load_personnages_and_yin_yang(yin_yang_t *y, char const *info);
+void update_yin_yang(yin_yang_t *y);
+void start_game(yin_yang_t *y);
+void init_page(yin_yang_t *y, char const *map, char const *info);
 
 #endif /* JAM_H_ */

@@ -79,11 +79,14 @@ bool load_personnages_and_yin_yang(yin_yang_t *y, char const *info)
             if (!y->p[i].piece_t.loadFromFile("assets/yang.png")) {
                 return false;
             }
+            y->p[i].is_noir = false;
         } else {
             if (!y->p[i].piece_t.loadFromFile("assets/yin.png")) {
                 return false;
             }
+            y->p[i].is_noir = true;
         }
+        y->p[i].is_take = true;
         y->p[i].piece_s.setTexture(y->p[i].piece_t);
         y->p[i].piece_s.setPosition(y->p[i].x, y->p[i].y);
     }

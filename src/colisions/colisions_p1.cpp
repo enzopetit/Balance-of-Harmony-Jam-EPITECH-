@@ -26,11 +26,11 @@ bool collisions_p1(yin_yang_t *y)
         y->jump_n = false;
     }
     if (cond_stop_droite(y) != 0) {
-        y->spritePosition_n.x -= 150;
+        y->spritePosition_n.x -= 100;
         y->P_1_vy = 0;
     }
     if (cond_stop_gauche(y) != 0) {
-        y->spritePosition_n.x += 150;
+        y->spritePosition_n.x += 100;
         y->P_1_vy = 0;
     }
     return false;
