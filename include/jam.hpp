@@ -107,4 +107,5 @@ void update_game(yin_yang_t *y);
 void update_physique(yin_yang_t *y);
 void get_info(yin_yang_t *y, const char *filename);
 bool load_personnages_and_yin_yang(yin_yang_t *y, char const *info);
+
 #endif /* JAM_H_ */
