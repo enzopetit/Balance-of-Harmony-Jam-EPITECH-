@@ -11,18 +11,18 @@ void get_keyboard_event(yin_yang_t *y)
         {
             if (event.key.code == sf::Keyboard::Up) {
                 if (y->cond != 0)
-                    y->P_1_vy = -15;
+                    y->P_1_vy = -18;
                 y->jump = true;
             }
             if (event.key.code == sf::Keyboard::Right) {
                 if (y->P_1_vx == 0) {
-                    y->P_1_vx += 10;
+                    y->P_1_vx += 15;
                     y->P_1isRightPressed = true;
                 }
             }
             if (event.key.code == sf::Keyboard::Left) {
                 if (y->P_1_vx == 0) {
-                    y->P_1_vx -= 10;
+                    y->P_1_vx -= 15;
                     y->P_1isLeftPressed = true;
                 }
             }

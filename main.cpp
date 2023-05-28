@@ -16,9 +16,11 @@ void load_personnages(yin_yang_t *y)
 
 void init_page(yin_yang_t *y)
 {
+    bool stop_chute = false;
     load_personnages(y);
     make_map("map/map_1.txt", y);
     while (y->window.isOpen()) {
+        stop_chute = false;
         get_keyboard_event(y);
         if (!y->P_1isRightPressed && !y->P_1isLeftPressed) {
             if (y->P_1_vx < 1 && y->P_1_vx > -1 && y->P_1_vy == 0) {
@@ -29,9 +31,10 @@ void init_page(yin_yang_t *y)
                 y->P_1_vx += 5;
         }
         y->spritePosition_n.y += y->P_1_vy;
-        if (!y->jump)
+        if (!y->jump) {
             y->cond = cond_stop_chute(y);
-        else
+            stop_chute = true;
+        } else
             y->cond = 0;
         if (y->cond != 0) {
             y->spritePosition_n.y = y->cond;
@@ -43,8 +46,8 @@ void init_page(yin_yang_t *y)
             y->lose = true;
             break;
         }
-        if (cond_stop_saut(y) != 0) {
-            y->spritePosition_n.y -= y->P_1_vy;
+        if (cond_stop_saut(y) != 0 && !stop_chute) {
+            y->spritePosition_n.y += 30;
             y->P_1_vy = 0;
         }
         if (y->P_1_vy >= 0) {
@@ -52,11 +55,11 @@ void init_page(yin_yang_t *y)
         }
 
         if (cond_stop_droite(y) != 0) {
-            y->spritePosition_n.x -= 100;
+            y->spritePosition_n.x -= 150;
             y->P_1_vy = 0;
         }
         if (cond_stop_gauche(y) != 0) {
-            y->spritePosition_n.x += 100;
+            y->spritePosition_n.x += 150;
             y->P_1_vy = 0;
         }
 
