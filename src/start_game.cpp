@@ -171,7 +171,7 @@ void display_world(yin_yang_t *y)
                 } else if (button2.getGlobalBounds().contains(mousePosition.x, mousePosition.y)) {
                     init_page(y, "map/map_2.txt", "map/info_2.txt");
                 } else if (button3.getGlobalBounds().contains(mousePosition.x, mousePosition.y)) {
-                    // init_page(y, "map/map_3.txt", "map/info_3.txt");
+                    init_page(y, "map/map_3.txt", "map/info_3.txt");
                     showVictoryMessage = true;
                 } else if (backButton.getGlobalBounds().contains(mousePosition.x, mousePosition.y)) {
                     y->window.clear(sf::Color(128, 128, 128));
