@@ -84,5 +84,7 @@ int cond_stop_droite_2(yin_yang_t *y);
 int cond_stop_gauche_2(yin_yang_t *y);
 void update_sprite_n(yin_yang_t *y);
 void update_sprite_b(yin_yang_t *y);
-
+bool collisions_p1(yin_yang_t *y);
+bool collisions_p2(yin_yang_t *y);
+bool collisions_p3(yin_yang_t *y);
 #endif /* JAM_H_ */
